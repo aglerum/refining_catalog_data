@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <record>
+        <bib_num>020000213</bib_num>
+        <type>Unknown</type>
+        <blvl>Monograph</blvl>
+        <form>Electronic</form>
+        <gpub>Not GPub</gpub>
+        <gpo>Not GPO</gpo>
+        <physical_character>Remote</physical_character>
+        <urls>
+            <url>
+                <ind1>HTTP</ind1>
+                <ind2>No info</ind2>
+                <link>https://login.proxy.lib.fsu.edu/login?url=http://www.netlibrary.com/urlapi.asp?action=summary&amp;v=1&amp;bookid=4608</link>
+                <orgCode>FTaSU</orgCode>
+            </url>
+        </urls>
+    </record>
+    <record>
+        <bib_num>020000366</bib_num>
+        <type>Unknown</type>
+        <blvl>Monograph</blvl>
+        <form>Electronic</form>
+        <gpub>Not GPub</gpub>
+        <gpo>Not GPO</gpo>
+        <physical_character>Remote</physical_character>
+        <urls>
+            <url>
+                <ind1>HTTP</ind1>
+                <ind2>No info</ind2>
+                <link>https://login.proxy.lib.fsu.edu/login?url=http://www.netlibrary.com/urlapi.asp?action=summary&amp;v=1&amp;bookid=9536</link>
+                <orgCode>FTaSU</orgCode>
+            </url>
+        </urls>
+    </record>
+    <record>
+        <bib_num>020014797</bib_num>
+        <type>Unknown</type>
+        <blvl>Monograph</blvl>
+        <form>Electronic</form>
+        <gpub>Federal</gpub>
+        <gpo>GPO</gpo>
+        <urls>
+            <url>
+                <ind1>HTTP</ind1>
+                <ind2>Version</ind2>
+                <link>http://purl.access.gpo.gov/GPO/LPS12198</link>
+                <orgCode>No Org Code</orgCode>
+            </url>
+        </urls>
+    </record>
+    <record>
+        <bib_num>020015149</bib_num>
+        <type>Unknown</type>
+        <blvl>Monograph</blvl>
+        <form>Electronic</form>
+        <gpub>Federal</gpub>
+        <gpo>GPO</gpo>
+        <urls>
+            <url>
+                <ind1>HTTP</ind1>
+                <ind2>Version</ind2>
+                <link>http://purl.access.gpo.gov/GPO/LPS11950</link>
+                <orgCode>No Org Code</orgCode>
+            </url>
+        </urls>
+    </record>
+    <record>
+        <bib_num>020015299</bib_num>
+        <type>Unknown</type>
+        <blvl>Monograph</blvl>
+        <form>Electronic</form>
+        <gpub>Federal</gpub>
+        <gpo>GPO</gpo>
+        <urls>
+            <url>
+                <ind1>HTTP</ind1>
+                <ind2>Version</ind2>
+                <link>http://purl.access.gpo.gov/GPO/LPS11654</link>
+                <orgCode>No Org Code</orgCode>
+            </url>
+        </urls>
+    </record>
+    <record>
+        <bib_num>020015347</bib_num>
+        <type>Unknown</type>
+        <blvl>Monograph</blvl>
+        <form>no form</form>
+        <gpub>Federal</gpub>
+        <gpo>GPO</gpo>
+        <urls>
+            <url>
+                <ind1>HTTP</ind1>
+                <ind2>Version</ind2>
+                <link>http://purl.access.gpo.gov/GPO/LPS11578</link>
+                <orgCode>No Org Code</orgCode>
+            </url>
+            <url>
+                <ind1>HTTP</ind1>
+                <ind2>Version</ind2>
+                <link>http://purl.access.gpo.gov/GPO/LPS11577</link>
+                <orgCode>No Org Code</orgCode>
+            </url>
+        </urls>
+    </record>
+    <record>
+        <bib_num>020015539</bib_num>
+        <type>Unknown</type>
+        <blvl>Monograph</blvl>
+        <form>Electronic</form>
+        <gpub>Federal</gpub>
+        <gpo>GPO</gpo>
+        <urls>
+            <url>
+                <ind1>HTTP</ind1>
+                <ind2>Version</ind2>
+                <link>http://purl.access.gpo.gov/GPO/LPS7023</link>
+                <orgCode>No Org Code</orgCode>
+            </url>
+        </urls>
+    </record>
+    <record>
+        <bib_num>020015978</bib_num>
+        <type>Unknown</type>
+        <blvl>Monograph</blvl>
+        <form>no form</form>
+        <gpub>Federal</gpub>
+        <gpo>GPO</gpo>
+        <urls/>
+    </record>
+    <record>
+        <bib_num>020015995</bib_num>
+        <type>Unknown</type>
+        <blvl>Integrating</blvl>
+        <form>Electronic-Online</form>
+        <gpub>Not GPub</gpub>
+        <gpo>Not GPO</gpo>
+        <physical_character>Remote</physical_character>
+        <physical_character>Remote</physical_character>
+        <urls>
+            <url>
+                <ind1>HTTP</ind1>
+                <ind2>Related</ind2>
+                <link>http://vnweb.hwwilsonweb.com/hww/jumpstart.jhtml?un=axr69&amp;pw=infl226984&amp;prod=BUSFT</link>
+                <orgCode>FTaSU</orgCode>
+            </url>
+        </urls>
+    </record>
+    <record>
+        <bib_num>020016167</bib_num>
+        <type>Unknown</type>
+        <blvl>Monograph</blvl>
+        <form>Electronic</form>
+        <gpub>Federal</gpub>
+        <gpo>GPO</gpo>
+        <urls>
+            <url>
+                <ind1>HTTP</ind1>
+                <ind2>Version</ind2>
+                <link>http://purl.access.gpo.gov/GPO/LPS11947</link>
+                <orgCode>No Org Code</orgCode>
+            </url>
+        </urls>
+    </record>
+</records>

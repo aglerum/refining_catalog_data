@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <marc:record>
+      <marc:leader>09184cam a2201945La 4500</marc:leader>
+      <marc:controlfield tag="001">020000213</marc:controlfield>
+      <marc:controlfield tag="006">m        u        </marc:controlfield>
+      <marc:controlfield tag="007">cr cn|</marc:controlfield>
+      <marc:controlfield tag="008">971104s1998    cauab   sb    001 0 eng d</marc:controlfield>
+      <marc:datafield tag="010" ind1=" " ind2=" ">
+         <marc:subfield code="z">   97032806 </marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="020" ind1=" " ind2=" ">
+         <marc:subfield code="z">0520214862</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="020" ind1=" " ind2=" ">
+         <marc:subfield code="z">0520214854</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="020" ind1=" " ind2=" ">
+         <marc:subfield code="a">058509862X (electronic bk.)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)42856538</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">N$T</marc:subfield>
+         <marc:subfield code="c">N$T</marc:subfield>
+         <marc:subfield code="d">OCL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n-us-ca</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="050" ind1="1" ind2="4">
+         <marc:subfield code="a">HJ3835.C3</marc:subfield>
+         <marc:subfield code="b">B35 1998eb</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="082" ind1="0" ind2="4">
+         <marc:subfield code="a">336.794/96</marc:subfield>
+         <marc:subfield code="2">21</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Baldassare, Mark.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">When government fails</marc:subfield>
+         <marc:subfield code="h">[computer file] :</marc:subfield>
+         <marc:subfield code="b">the Orange County bankruptcy /</marc:subfield>
+         <marc:subfield code="c">Mark Baldassare.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">San Francisco :</marc:subfield>
+         <marc:subfield code="b">Public Policy Institute of California,</marc:subfield>
+         <marc:subfield code="c">c1998.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">xviii, 317 p. :</marc:subfield>
+         <marc:subfield code="b">ill., map ;</marc:subfield>
+         <marc:subfield code="c">24 cm.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="504" ind1=" " ind2=" ">
+         <marc:subfield code="a">Includes bibliographical references (p. 299-312) and index.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Citron, Robert L.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="4">
+         <marc:subfield code="a">Citron, Robert L.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Investment of public funds</marc:subfield>
+         <marc:subfield code="z">California</marc:subfield>
+         <marc:subfield code="z">Orange County.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Derivative securities.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Municipal bankruptcy</marc:subfield>
+         <marc:subfield code="z">California</marc:subfield>
+         <marc:subfield code="z">Orange County.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Debts, Public</marc:subfield>
+         <marc:subfield code="z">California</marc:subfield>
+         <marc:subfield code="z">Orange County.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="4">
+         <marc:subfield code="a">Derivative securities.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Electronic books.</marc:subfield>
+         <marc:subfield code="2">local</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="2" ind2=" ">
+         <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>08079cam a2201657La 4500</marc:leader>
+      <marc:controlfield tag="001">020000366</marc:controlfield>
+      <marc:controlfield tag="006">m        u        </marc:controlfield>
+      <marc:controlfield tag="007">cr cn|</marc:controlfield>
+      <marc:controlfield tag="008">000112s1997    stka    s     000 0 eng d</marc:controlfield>
+      <marc:datafield tag="020" ind1=" " ind2=" ">
+         <marc:subfield code="z">0748611231</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="020" ind1=" " ind2=" ">
+         <marc:subfield code="a">0585159017 (electronic bk.)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)43477395</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">N$T</marc:subfield>
+         <marc:subfield code="c">N$T</marc:subfield>
+         <marc:subfield code="d">OCL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">e-uk-st</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="050" ind1="1" ind2="4">
+         <marc:subfield code="a">K8</marc:subfield>
+         <marc:subfield code="b">.U5 1997eb</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="082" ind1="0" ind2="4">
+         <marc:subfield code="a">347.41</marc:subfield>
+         <marc:subfield code="2">21</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="0" ind2="4">
+         <marc:subfield code="a">The reform of civil justice</marc:subfield>
+         <marc:subfield code="h">[computer file] /</marc:subfield>
+         <marc:subfield code="c">[contributors, Brian G.M. Main ... et al.].</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">Edinburgh :</marc:subfield>
+         <marc:subfield code="b">Edinburgh University Press,</marc:subfield>
+         <marc:subfield code="c">c1997.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">x, 115 p. :</marc:subfield>
+         <marc:subfield code="b">ill. ;</marc:subfield>
+         <marc:subfield code="c">23 cm.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="440" ind1=" " ind2="0">
+         <marc:subfield code="a">Hume papers on public policy ;</marc:subfield>
+         <marc:subfield code="v">v. 5, no. 4</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="504" ind1=" " ind2=" ">
+         <marc:subfield code="a">Includes bibliographical references.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="505" ind1="0" ind2=" ">
+         <marc:subfield code="a">An economic perspective on the cost of justice / Brian G. M. Main -- The changing landscape of Dispute Resolution / Richard Mays -- Fair notice - the role of written pleadings in the Scottish Justice System / Andrew Murray -- Judicial case management. The quiet but significant revolution / Rachel Wadia -- Access to justice? Lessons from the Sheriff court / David Parratt.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Justice, Administration of</marc:subfield>
+         <marc:subfield code="z">Scotland.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Civil law</marc:subfield>
+         <marc:subfield code="z">Scotland.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Civil law systems.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Electronic books.</marc:subfield>
+         <marc:subfield code="2">local</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Main, Brian G. M.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="2" ind2=" ">
+         <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="2" ind2=" ">
+         <marc:subfield code="a">David Hume Institute.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="830" ind1=" " ind2="0">
+         <marc:subfield code="a">Hume papers on public policy ;</marc:subfield>
+         <marc:subfield code="v">v. 5, no. 4</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>04478nam a2201201 a 4500</marc:leader>
+      <marc:controlfield tag="001">020014797</marc:controlfield>
+      <marc:controlfield tag="008">971007s1997    dcua    sb   f000|0 eng c</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)37747201</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">IEA</marc:subfield>
+         <marc:subfield code="c">IEA</marc:subfield>
+         <marc:subfield code="d">GPO</marc:subfield>
+         <marc:subfield code="d">DLC</marc:subfield>
+         <marc:subfield code="d">MvI</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="042" ind1=" " ind2=" ">
+         <marc:subfield code="a">pcc</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n-us---</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="074" ind1=" " ind2=" ">
+         <marc:subfield code="a">0455-B-02 (online)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="086" ind1="0" ind2=" ">
+         <marc:subfield code="a">ED 1.2:99009525</marc:subfield>
+         <marc:subfield code="z">ED 1.2:T 53</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Title IX :</marc:subfield>
+         <marc:subfield code="b">25 Years of Progress.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="246" ind1="3" ind2=" ">
+         <marc:subfield code="a">Title nine</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">[Washington, D.C.] :</marc:subfield>
+         <marc:subfield code="b">U.S. Dept. of Education, Office for Civil Rights,</marc:subfield>
+         <marc:subfield code="c">[1997]</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">[4], 28 p. ;</marc:subfield>
+         <marc:subfield code="c">22 cm.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">"June 1997."</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Cover title.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Title from title screen.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="504" ind1=" " ind2=" ">
+         <marc:subfield code="a">Includes bibliographical references (p. 25-28).</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="530" ind1=" " ind2=" ">
+         <marc:subfield code="a">Also available via Internet at the FTC web site. Address as of 04/23/01: http://www.ed.gov/pubs/TitleIX/index.html; current access is available via PURL.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="538" ind1=" " ind2=" ">
+         <marc:subfield code="a">Mode of access: Internet from the DOE web site. Address as of 04/23/01: http://www.ed.gov/pubs/TitleIX/index.html; current access is available via PURL.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Educational equalization</marc:subfield>
+         <marc:subfield code="z">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Gender identity</marc:subfield>
+         <marc:subfield code="z">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Sex discrimination in education</marc:subfield>
+         <marc:subfield code="x">Law and legislation</marc:subfield>
+         <marc:subfield code="z">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2=" ">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="b">Department of Education.</marc:subfield>
+         <marc:subfield code="b">Office for Civil Rights</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>04274nam a2201105 a 4500</marc:leader>
+      <marc:controlfield tag="001">020015149</marc:controlfield>
+      <marc:controlfield tag="008">000320s1999    mdua    s    f000|0 eng c</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)43668682</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">OLA</marc:subfield>
+         <marc:subfield code="c">OLA</marc:subfield>
+         <marc:subfield code="d">GPO</marc:subfield>
+         <marc:subfield code="d">DLC</marc:subfield>
+         <marc:subfield code="d">MvI</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="042" ind1=" " ind2=" ">
+         <marc:subfield code="a">pcc</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n-us---</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="074" ind1=" " ind2=" ">
+         <marc:subfield code="a">0275 (online)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="086" ind1="0" ind2=" ">
+         <marc:subfield code="a">C 55.102:2001005779</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="090" ind1=" " ind2=" ">
+         <marc:subfield code="a">QC875.U6</marc:subfield>
+         <marc:subfield code="b">U56 1999</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="110" ind1="1" ind2=" ">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="b">National Weather Service</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Vision 2005 :</marc:subfield>
+         <marc:subfield code="b">National Weather Service strategic plan for weather, water, and climate services, 2000-2005.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="246" ind1="3" ind2="0">
+         <marc:subfield code="a">National Weather Service strategic plan for weather, water, and climate services, 2000-2005</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">[Silver Spring, Md.?] :</marc:subfield>
+         <marc:subfield code="b">U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, National Weather Service,</marc:subfield>
+         <marc:subfield code="c">[1999]</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">24 p. :</marc:subfield>
+         <marc:subfield code="b">col. ill. ;</marc:subfield>
+         <marc:subfield code="c">28 cm.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Title from title screen.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">"August 1999."</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Not distributed to depository libraries in a physical form.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="530" ind1=" " ind2=" ">
+         <marc:subfield code="a">Available via Internet from the NWS web site. Address as of 5/14/01: http://www.nws.noaa.gov/sp/strplan.htm; current access is available via PURL.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="538" ind1=" " ind2=" ">
+         <marc:subfield code="a">Mode of access: Internet from the NWS web site. Address as of 5/14/01: http://www.nws.noaa.gov/sp/strplan.htm; current access is available via PURL.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="610" ind1="1" ind2="0">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="b">National Weather Service</marc:subfield>
+         <marc:subfield code="x">Planning.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Meteorological services</marc:subfield>
+         <marc:subfield code="z">United States</marc:subfield>
+         <marc:subfield code="x">Planning.</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>04612nam a2201141 a 4500</marc:leader>
+      <marc:controlfield tag="001">020015299</marc:controlfield>
+      <marc:controlfield tag="008">000229s2000    dcu     sb   f000|0 eng  </marc:controlfield>
+      <marc:datafield tag="010" ind1=" " ind2=" ">
+         <marc:subfield code="a">   00301759 </marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)44110617</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DLC</marc:subfield>
+         <marc:subfield code="c">DLC</marc:subfield>
+         <marc:subfield code="d">GPO</marc:subfield>
+         <marc:subfield code="d">DLC</marc:subfield>
+         <marc:subfield code="d">MvI</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="050" ind1="0" ind2="0">
+         <marc:subfield code="a">HD4966.C6</marc:subfield>
+         <marc:subfield code="b">W34 2000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="074" ind1=" " ind2=" ">
+         <marc:subfield code="a">0745-A-01 (online)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="082" ind1="0" ind2="0">
+         <marc:subfield code="a">331.2/887/09049</marc:subfield>
+         <marc:subfield code="2">21</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="086" ind1="0" ind2=" ">
+         <marc:subfield code="a">L 29.2:2000010547</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="0" ind2="0">
+         <marc:subfield code="a">Wages, benefits, poverty line, and meeting workers' needs in the apparel and footwear industries of selected countries /</marc:subfield>
+         <marc:subfield code="c">U.S. Department of Labor, Bureau of International Labor Affairs.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">[Washington, D.C.] (Room S-5325, Constitution Ave., N.W., Washington 20210) :</marc:subfield>
+         <marc:subfield code="b">The Bureau,</marc:subfield>
+         <marc:subfield code="c">[2000]</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">1 v. (various pagings) ;</marc:subfield>
+         <marc:subfield code="c">28 cm.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">"February 2000."</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Not distributed to depository libraries in a physical form.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Title from title screen.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="504" ind1=" " ind2=" ">
+         <marc:subfield code="a">Includes bibliographical references.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="530" ind1=" " ind2=" ">
+         <marc:subfield code="a">Available via Internet from the Bureau of International Labor Affairs web site (PDF version only). Address as of 4/30/01: http://www.dol.gov/dol/ilab/public/media/reports/oiea/wagestudy/wagestudy.pdf; current access is available via PURL.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="538" ind1=" " ind2=" ">
+         <marc:subfield code="a">Mode of access: Internet from the Bureau of International Labor Affairs web site (PDF version only). Address as of 4/30/01: http://www.dol.gov/dol/ilab/public/media/reports/oiea/wagestudy/wagestudy.pdf; current access is available via PURL.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Employee fringe benefits.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Poverty.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Wages</marc:subfield>
+         <marc:subfield code="x">Footwear industry</marc:subfield>
+         <marc:subfield code="v">Case studies.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Wages</marc:subfield>
+         <marc:subfield code="x">Clothing workers</marc:subfield>
+         <marc:subfield code="v">Case studies.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2=" ">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="b">Bureau of International Labor Affairs.</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>07438cam a2201717 a 4500</marc:leader>
+      <marc:controlfield tag="001">020015347</marc:controlfield>
+      <marc:controlfield tag="008">001128s1999    dcua         f000 0 eng c</marc:controlfield>
+      <marc:datafield tag="010" ind1=" " ind2=" ">
+         <marc:subfield code="a">00329737</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="020" ind1=" " ind2=" ">
+         <marc:subfield code="a">0160606047</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="020" ind1=" " ind2=" ">
+         <marc:subfield code="a">9780160606045</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)44648209</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">OVP</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">OVP</marc:subfield>
+         <marc:subfield code="d">DLC</marc:subfield>
+         <marc:subfield code="d">GPO</marc:subfield>
+         <marc:subfield code="d">BTCTA</marc:subfield>
+         <marc:subfield code="d">OCLCF</marc:subfield>
+         <marc:subfield code="d">P4I</marc:subfield>
+         <marc:subfield code="d">ORU</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="042" ind1=" " ind2=" ">
+         <marc:subfield code="a">lccopycat</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n-us---</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">FUGG</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="050" ind1="0" ind2="0">
+         <marc:subfield code="a">KF27</marc:subfield>
+         <marc:subfield code="b">.I54924 1999e</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="074" ind1=" " ind2=" ">
+         <marc:subfield code="a">1017-A-01</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="074" ind1=" " ind2=" ">
+         <marc:subfield code="a">1017-A-01 (online)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="074" ind1=" " ind2=" ">
+         <marc:subfield code="a">1017-B-01 (MF)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="074" ind1=" " ind2=" ">
+         <marc:subfield code="a">1017-B-01 (online)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="086" ind1="0" ind2=" ">
+         <marc:subfield code="a">Y 4.IN 8/16:OV 2/7</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="088" ind1=" " ind2=" ">
+         <marc:subfield code="a">Serial no. 106-51 (United States. Congress. House. Committee on International Relations)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="110" ind1="1" ind2=" ">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="b">Congress.</marc:subfield>
+         <marc:subfield code="b">House.</marc:subfield>
+         <marc:subfield code="b">Committee on International Relations.</marc:subfield>
+         <marc:subfield code="b">Subcommittee on International Economic Policy and Trade.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Hearing on reauthorization of OPIC :</marc:subfield>
+         <marc:subfield code="b">hearing before the Subcommittee on International Economic Policy and Trade of the Committee on International Relations, House of Representatives, One Hundred Sixth Congress, first session, on April 14, 1999.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">Washington :</marc:subfield>
+         <marc:subfield code="b">U.S. G.P.O. :</marc:subfield>
+         <marc:subfield code="b">For sale by the Supt. of Docs., Congressional Sales Office, U.S. G.P.O.,</marc:subfield>
+         <marc:subfield code="c">1999.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">iii, 68 pages :</marc:subfield>
+         <marc:subfield code="b">illustrations ;</marc:subfield>
+         <marc:subfield code="c">24 cm</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="530" ind1=" " ind2=" ">
+         <marc:subfield code="a">Also available via Internet from the GPO Access web site. Addresses as of 4/27/01: http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=106ẖouseẖearings &amp; docid=f:60297.wais (text version), http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=106ẖouseẖearings &amp; docid=f:60297.pdf (PDF version); current access is available via PURLs.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Reuse of record except for individual research requires license from Congressional Information Service, Inc.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">"Serial no. 106-51."</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">CIS Microfiche Accession Numbers: CIS 00 H461-28</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Reuse of record except for individual research requires license from LexisNexis Academic &amp; Library Solutions.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Distributed to some depository libraries in microfiche.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Shipping list no.: 2001-0176-P.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="583" ind1="1" ind2=" ">
+         <marc:subfield code="a">committed to retain</marc:subfield>
+         <marc:subfield code="c">20150901</marc:subfield>
+         <marc:subfield code="d">committed to retain permanently</marc:subfield>
+         <marc:subfield code="f">FLARE</marc:subfield>
+         <marc:subfield code="f">FDLP</marc:subfield>
+         <marc:subfield code="j">FSTO</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="583" ind1="1" ind2=" ">
+         <marc:subfield code="a">condition reviewed</marc:subfield>
+         <marc:subfield code="c">20150901</marc:subfield>
+         <marc:subfield code="f">FLARE</marc:subfield>
+         <marc:subfield code="f">FDLP</marc:subfield>
+         <marc:subfield code="j">FSTO</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="610" ind1="2" ind2="0">
+         <marc:subfield code="a">Overseas Private Investment Corporation.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Investment guaranty insurance</marc:subfield>
+         <marc:subfield code="z">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Investments, American</marc:subfield>
+         <marc:subfield code="x">Law and legislation.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="610" ind1="2" ind2="7">
+         <marc:subfield code="a">Overseas Private Investment Corporation.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst00576888</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Investment guaranty insurance.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01715854</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Investments, American</marc:subfield>
+         <marc:subfield code="x">Law and legislation.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst00978321</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="7">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01204155</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>05756nam a2201429 a 4500</marc:leader>
+      <marc:controlfield tag="001">020015539</marc:controlfield>
+      <marc:controlfield tag="008">001024s2000    dcuab   sbs  f000|0 eng c</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)45218164</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">MDT</marc:subfield>
+         <marc:subfield code="c">MDT</marc:subfield>
+         <marc:subfield code="d">CBT</marc:subfield>
+         <marc:subfield code="d">GPO</marc:subfield>
+         <marc:subfield code="d">DLC</marc:subfield>
+         <marc:subfield code="d">MvI</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="042" ind1=" " ind2=" ">
+         <marc:subfield code="a">pcc</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n------</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="074" ind1=" " ind2=" ">
+         <marc:subfield code="a">0982-N-01</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="086" ind1="0" ind2=" ">
+         <marc:subfield code="a">TD 12.2:2001001912</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="088" ind1=" " ind2=" ">
+         <marc:subfield code="a">BTS 00-05</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="090" ind1=" " ind2=" ">
+         <marc:subfield code="a">HE191.4</marc:subfield>
+         <marc:subfield code="b">.N67 2000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="0" ind2="0">
+         <marc:subfield code="a">North American transportation in figures.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="246" ind1="1" ind2="4">
+         <marc:subfield code="a">Transporte de América del Norte en cifras</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="246" ind1="1" ind2="4">
+         <marc:subfield code="a">Statistiques des transports en Amérique du Nord</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="250" ind1=" " ind2=" ">
+         <marc:subfield code="a">English ed.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">[Washington, D.C. :</marc:subfield>
+         <marc:subfield code="b">Bureau of Transportation Statistics,</marc:subfield>
+         <marc:subfield code="c">2000]</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">xxii, 390 p. :</marc:subfield>
+         <marc:subfield code="b">ill., maps (some col.) ;</marc:subfield>
+         <marc:subfield code="c">28 cm.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Col. map (49 x 49 cm., folded to 25 x 17 cm.) inserted at end.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Performed by U.S. Bureau of Transportation Statistics in cooperation with U.S. Census Bureau, Statistics Canada, Transport Canada, Instituto Mexicano del Transporte, Instituto Nacional de Estadística, Geografía e Informática, and Secretaría de Comunicaciones y Transportes.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">"BTS00-05."</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Title from title screen.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="504" ind1=" " ind2=" ">
+         <marc:subfield code="a">Includes bibliographical references.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="530" ind1=" " ind2=" ">
+         <marc:subfield code="a">Also available via Internet from the U.S. Census Bureau web site. Address as of 5/17/2001: http://www.census.gov/econ/www/natf/english.pdf; current access is available via PURL.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="538" ind1=" " ind2=" ">
+         <marc:subfield code="a">Mode of access: Internet from the U.S. Census Bureau web site. Address as of 5/17/2001: http://www.census.gov/econ/www/natf/english.pdf; current access is available via PURL.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Transportation</marc:subfield>
+         <marc:subfield code="z">Canada</marc:subfield>
+         <marc:subfield code="v">Statistics.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Transportation</marc:subfield>
+         <marc:subfield code="z">Mexico</marc:subfield>
+         <marc:subfield code="v">Statistics.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Transportation</marc:subfield>
+         <marc:subfield code="z">United States</marc:subfield>
+         <marc:subfield code="v">Statistics.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Transportation</marc:subfield>
+         <marc:subfield code="z">North America</marc:subfield>
+         <marc:subfield code="v">Statistics.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2=" ">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="b">Bureau of Transportation Statistics.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2=" ">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="b">Bureau of the Census</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2=" ">
+         <marc:subfield code="a">Mexico.</marc:subfield>
+         <marc:subfield code="b">Secretaría de Comunicaciones y Transportes.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2=" ">
+         <marc:subfield code="a">Canada.</marc:subfield>
+         <marc:subfield code="b">Transport Canada.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="2" ind2=" ">
+         <marc:subfield code="a">Statistics Canada.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="2" ind2=" ">
+         <marc:subfield code="a">Instituto Nacional de Estadística, Geografía e Informática (Mexico)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="2" ind2=" ">
+         <marc:subfield code="a">Instituto Mexicano del Transporte.</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>05487cam a2201393 a 4500</marc:leader>
+      <marc:controlfield tag="001">020015978</marc:controlfield>
+      <marc:controlfield tag="008">010214s2000    mdua     b   f000 0 eng  </marc:controlfield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">101086975</marc:subfield>
+         <marc:subfield code="2">DNLM</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="019" ind1=" " ind2=" ">
+         <marc:subfield code="a">79756445</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)45912751</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">NLM</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">NLM</marc:subfield>
+         <marc:subfield code="d">SFR</marc:subfield>
+         <marc:subfield code="d">GPO</marc:subfield>
+         <marc:subfield code="d">COO</marc:subfield>
+         <marc:subfield code="d">MDD</marc:subfield>
+         <marc:subfield code="d">CGC</marc:subfield>
+         <marc:subfield code="d">SYB</marc:subfield>
+         <marc:subfield code="d">KMS</marc:subfield>
+         <marc:subfield code="d">OCLCF</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="042" ind1=" " ind2=" ">
+         <marc:subfield code="a">pcc</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n-us---</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="050" ind1=" " ind2="4">
+         <marc:subfield code="a">HV5825</marc:subfield>
+         <marc:subfield code="b">.C53 2000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="060" ind1="0" ind2="0">
+         <marc:subfield code="a">2001 B-497</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="060" ind1="1" ind2="0">
+         <marc:subfield code="a">WM 270</marc:subfield>
+         <marc:subfield code="b">N287752c 2000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="074" ind1=" " ind2=" ">
+         <marc:subfield code="a">0497-D-01</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="074" ind1=" " ind2=" ">
+         <marc:subfield code="a">0497-D-01 (online)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="082" ind1="0" ind2="4">
+         <marc:subfield code="a">362.29</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="086" ind1="0" ind2=" ">
+         <marc:subfield code="a">HE 20.402:C 76/2/PANEL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="110" ind1="2" ind2=" ">
+         <marc:subfield code="a">National Treatment Plan Initiative (U.S.)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Changing the conversation :</marc:subfield>
+         <marc:subfield code="b">improving substance abuse treatment : the National Treatment Plan Initiative : panel reports, public hearings, and participant acknowledgements.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="246" ind1="3" ind2="0">
+         <marc:subfield code="a">Improving substance abuse treatment</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="246" ind1="3" ind2=" ">
+         <marc:subfield code="a">Panel reports, public hearings, and participant acknowledgements</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="246" ind1="1" ind2="7">
+         <marc:subfield code="a">Changing the conversation : the National Treatment Plan Initiative</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">[Rockville, Md.?] :</marc:subfield>
+         <marc:subfield code="b">U.S. Dept. of Health and Human Services, Substance Abuse and Mental Health Services Administration, Center for Substance Abuse Treatment,</marc:subfield>
+         <marc:subfield code="c">[2000]</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">v, 244 pages :</marc:subfield>
+         <marc:subfield code="b">illustrations ;</marc:subfield>
+         <marc:subfield code="c">28 cm.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="490" ind1="1" ind2=" ">
+         <marc:subfield code="a">DHHS publication ;</marc:subfield>
+         <marc:subfield code="v">no. (SMA) 00-3479</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="490" ind1="1" ind2=" ">
+         <marc:subfield code="a">NCADI publication ;</marc:subfield>
+         <marc:subfield code="v">no. BKD 382</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Shipping list no.: 2001-0080-P.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">"November 2000."</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="504" ind1=" " ind2=" ">
+         <marc:subfield code="a">Includes bibliographical references.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="530" ind1=" " ind2=" ">
+         <marc:subfield code="a">Also available via Internet from the SAMHSA/CSAT web site. Address as of 04/27/01: http://permanent.access.gpo.gov/lps11524/ntp.pdf.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Substance abuse</marc:subfield>
+         <marc:subfield code="x">Treatment</marc:subfield>
+         <marc:subfield code="z">United States</marc:subfield>
+         <marc:subfield code="x">Planning.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="1" ind2="2">
+         <marc:subfield code="a">Substance-Related Disorders</marc:subfield>
+         <marc:subfield code="x">therapy.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="2" ind2="2">
+         <marc:subfield code="a">Health Planning Guidelines.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Substance abuse</marc:subfield>
+         <marc:subfield code="x">Treatment</marc:subfield>
+         <marc:subfield code="x">Planning.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01136845</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="7">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01204155</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="2" ind2=" ">
+         <marc:subfield code="a">Center for Substance Abuse Treatment (U.S.)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="830" ind1=" " ind2="0">
+         <marc:subfield code="a">DHHS publication ;</marc:subfield>
+         <marc:subfield code="v">no. (SMA) 00-3479.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="830" ind1=" " ind2="0">
+         <marc:subfield code="a">NCADI publication ;</marc:subfield>
+         <marc:subfield code="v">no. BKD 382.</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>02710cai a2200601Ia 4500</marc:leader>
+      <marc:controlfield tag="001">020015995</marc:controlfield>
+      <marc:controlfield tag="006">m        e        </marc:controlfield>
+      <marc:controlfield tag="007">cr m||</marc:controlfield>
+      <marc:controlfield tag="007">cr mn|||||||||</marc:controlfield>
+      <marc:controlfield tag="008">990126c19829999aluwr d o     0    2eng d</marc:controlfield>
+      <marc:datafield tag="019" ind1=" " ind2=" ">
+         <marc:subfield code="a">44800819</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)40679101</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">SUC</marc:subfield>
+         <marc:subfield code="c">SUC</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">BOS</marc:subfield>
+         <marc:subfield code="d">LGG</marc:subfield>
+         <marc:subfield code="d">FGM</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="050" ind1=" " ind2="4">
+         <marc:subfield code="a">HF5001</marc:subfield>
+         <marc:subfield code="b">.B862</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="0" ind2="0">
+         <marc:subfield code="a">Business abstracts with full text</marc:subfield>
+         <marc:subfield code="h">[electronic resource]</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="246" ind1="1" ind2=" ">
+         <marc:subfield code="i">Previous title:</marc:subfield>
+         <marc:subfield code="a">Wilson business full text</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="246" ind1="1" ind2="3">
+         <marc:subfield code="i">Search screen title:</marc:subfield>
+         <marc:subfield code="a">Business full text</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="246" ind1="3" ind2="0">
+         <marc:subfield code="a">Business abstracts</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="3">&lt;2005-2011&gt;</marc:subfield>
+         <marc:subfield code="a">Bronx, NY :</marc:subfield>
+         <marc:subfield code="b">H.W. Wilson.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="310" ind1=" " ind2=" ">
+         <marc:subfield code="a">Updated weekly</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">"Wilson Business Abstracts ... is a bibliographic database that indexes and abstracts articles from 400 English-language periodicals published in the United States and elsewhere..." - Introduction.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Title from search screen (viewed 14 Jan. 2004).</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Updated weekly.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Indexing coverage begins July 1982 and is identical to Business periodicals index; abstracts are included beginning in January 1995.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="506" ind1=" " ind2=" ">
+         <marc:subfield code="a">Access restricted to FSU community.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="520" ind1=" " ind2=" ">
+         <marc:subfield code="a">"Contains full-text articles from hundreds of key publications, and provides access to product evaluations, interviews, biographical sketches, corporate profiles, obituaries, surveys, statistical rankings, book reviews and reports from associations, societies, trade shows, conferences and more"--EBSCO information screen.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="538" ind1=" " ind2=" ">
+         <marc:subfield code="a">Mode of access: World Wide Web.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Business</marc:subfield>
+         <marc:subfield code="x">Abstracts</marc:subfield>
+         <marc:subfield code="v">Databases.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Business</marc:subfield>
+         <marc:subfield code="v">Periodicals</marc:subfield>
+         <marc:subfield code="v">Indexes.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Business</marc:subfield>
+         <marc:subfield code="v">Periodicals</marc:subfield>
+         <marc:subfield code="x">Indexes</marc:subfield>
+         <marc:subfield code="x">Databases.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">database</marc:subfield>
+         <marc:subfield code="2">local</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="2" ind2=" ">
+         <marc:subfield code="a">H.W. Wilson Company.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="2" ind2=" ">
+         <marc:subfield code="a">EBSCOhost (Online service)</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>05076nam a2201225 a 4500</marc:leader>
+      <marc:controlfield tag="001">020016167</marc:controlfield>
+      <marc:controlfield tag="008">010228s2001    dcua    s    f000|0 eng d</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)46346540</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FRG</marc:subfield>
+         <marc:subfield code="c">FRG</marc:subfield>
+         <marc:subfield code="d">GPO</marc:subfield>
+         <marc:subfield code="d">DLC</marc:subfield>
+         <marc:subfield code="d">MvI</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n-us---</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="074" ind1=" " ind2=" ">
+         <marc:subfield code="a">0745 (online)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="086" ind1="0" ind2=" ">
+         <marc:subfield code="a">L 1.2:2001035349</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="090" ind1=" " ind2=" ">
+         <marc:subfield code="a">HD4965.5.U5</marc:subfield>
+         <marc:subfield code="b">U55 2001</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Cohen, Malcolm S.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="4">
+         <marc:subfield code="a">The "new economy" and its impact on executive, administrative, and professional exemptions to the Fair Labor Standards Act (FLSA) /</marc:subfield>
+         <marc:subfield code="c">Malcolm S. Cohen and Donald R. Grimes.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">[Washington, D.C. :</marc:subfield>
+         <marc:subfield code="b">U.S. Dept. of Labor,</marc:subfield>
+         <marc:subfield code="c">2001]</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">xiv, 115 p. :</marc:subfield>
+         <marc:subfield code="b">ill. ;</marc:subfield>
+         <marc:subfield code="c">28 cm.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">"January 2001"--Cover.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Not distributed to depository libraries in a physical form.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">"Prepared for the University of Tennessee under a contract with the U.S. Dept of Labor, Employment Standards Administration, Wage and Hour Division."</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Title from title screen.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="530" ind1=" " ind2=" ">
+         <marc:subfield code="a">Available via Internet from the U.S. Dept. of Labor Office of the Assistant Secretary for Policy web site. Address as of 5/14/01: http://www.dol.gov/dol/asp/public/programs/flsa/report-neweconomy/main.htm; current access is available via PURL.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="538" ind1=" " ind2=" ">
+         <marc:subfield code="a">Mode of access: Internet from the U.S. Dept. of Labor Office of the Assistant Secretary for Policy web site. Address as of 5/14/01: http://www.dol.gov/dol/asp/public/programs/flsa/report-neweconomy/main.htm; current access is available via PURL.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Hours of labor</marc:subfield>
+         <marc:subfield code="x">Law and legislation</marc:subfield>
+         <marc:subfield code="z">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Overtime</marc:subfield>
+         <marc:subfield code="x">Law and legislation</marc:subfield>
+         <marc:subfield code="z">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Executives</marc:subfield>
+         <marc:subfield code="x">Legal status, laws, etc.</marc:subfield>
+         <marc:subfield code="z">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Professions</marc:subfield>
+         <marc:subfield code="x">Law and legislation</marc:subfield>
+         <marc:subfield code="z">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Grimes, Donald R.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2=" ">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="b">Department of Labor</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+</marc:collection>

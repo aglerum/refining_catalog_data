@@ -1,0 +1,1206 @@
+## - XML_XSL
+<?xml version="1.0"?>
+<printout>
+<form-name>general-retrieval-form</form-name>
+<form-language>ENG</form-language>
+<form-format>06</form-format>
+<subject>General Retrieval Form</subject>
+
+
+<section-01>
+<form-date>08/09/2017</form-date>
+<sub-library-address-1-occ1>FSU50</sub-library-address-1-occ1>
+<sorted-by>ITEM STA</sorted-by>
+</section-01>
+
+
+<section-02>
+<z30-doc-number>1</z30-doc-number>
+<z30-item-sequence>    1.0</z30-item-sequence>
+<z30-barcode>31254006998120</z30-barcode>
+<z30-sub-library>FSU DIRAC SCIENCE LIBRARY</z30-sub-library>
+<z30-material>Book Sort</z30-material>
+<z30-item-status>Regular Loan</z30-item-status>
+<z30-open-date>05/16/2013</z30-open-date>
+<z30-update-date>07/11/2013</z30-update-date>
+<z30-cataloger>VKOSMYNIN</z30-cataloger>
+<z30-date-last-return></z30-date-last-return>
+<z30-hour-last-return></z30-hour-last-return>
+<z30-ip-last-return></z30-ip-last-return>
+<z30-no-loans>000</z30-no-loans>
+<z30-alpha>L</z30-alpha>
+<z30-collection></z30-collection>
+<z30-call-no-type>0</z30-call-no-type>
+<z30-call-no>QM21 .M57 1973</z30-call-no>
+<z30-call-no-key>0 qm!21 m57 1973</z30-call-no-key>
+<z30-call-no-2-type></z30-call-no-2-type>
+<z30-call-no-2></z30-call-no-2>
+<z30-call-no-2-key></z30-call-no-2-key>
+<z30-description></z30-description>
+<z30-note-opac></z30-note-opac>
+<z30-note-circulation></z30-note-circulation>
+<z30-note-internal></z30-note-internal>
+<z30-order-number></z30-order-number>
+<z30-inventory-number></z30-inventory-number>
+<z30-inventory-number-date></z30-inventory-number-date>
+<z30-last-shelf-report-date>00000000</z30-last-shelf-report-date>
+<z30-price></z30-price>
+<z30-shelf-report-number></z30-shelf-report-number>
+<z30-on-shelf-date>00000000</z30-on-shelf-date>
+<z30-on-shelf-seq>000000</z30-on-shelf-seq>
+<z30-doc-number-2>000000000</z30-doc-number-2>
+<z30-schedule-sequence-2>00000</z30-schedule-sequence-2>
+<z30-copy-sequence-2>00000</z30-copy-sequence-2>
+<z30-vendor-code></z30-vendor-code>
+<z30-invoice-number></z30-invoice-number>
+<z30-line-number>00000</z30-line-number>
+<z30-pages></z30-pages>
+<z30-issue-date></z30-issue-date>
+<z30-expected-arrival-date></z30-expected-arrival-date>
+<z30-arrival-date></z30-arrival-date>
+<z30-item-statistic></z30-item-statistic>
+<z30-item-process-status>Not in process</z30-item-process-status>
+<z30-copy-id></z30-copy-id>
+<z30-hol-doc-number>075000001</z30-hol-doc-number>
+<z30-temp-location>No</z30-temp-location>
+<z30-enumeration-a></z30-enumeration-a>
+<z30-enumeration-b></z30-enumeration-b>
+<z30-enumeration-c></z30-enumeration-c>
+<z30-enumeration-d></z30-enumeration-d>
+<z30-enumeration-e></z30-enumeration-e>
+<z30-enumeration-f></z30-enumeration-f>
+<z30-enumeration-g></z30-enumeration-g>
+<z30-enumeration-h></z30-enumeration-h>
+<z30-chronological-i></z30-chronological-i>
+<z30-chronological-j></z30-chronological-j>
+<z30-chronological-k></z30-chronological-k>
+<z30-chronological-l></z30-chronological-l>
+<z30-chronological-m></z30-chronological-m>
+<z30-supp-index-o></z30-supp-index-o>
+<z30-85x-type></z30-85x-type>
+<z30-depository-id></z30-depository-id>
+<z30-linking-number>000000000</z30-linking-number>
+<z30-gap-indicator></z30-gap-indicator>
+<z30-maintenance-count>000</z30-maintenance-count>
+<z30-process-status-date>07/11/2013</z30-process-status-date>
+<z13u-doc-number>020000005</z13u-doc-number>
+<z13u-user-defined-1-code>FMT</z13u-user-defined-1-code>
+<z13u-user-defined-1>BK</z13u-user-defined-1>
+<z13u-user-defined-2-code>008</z13u-user-defined-2-code>
+<z13u-user-defined-2>^spa^u</z13u-user-defined-2>
+<z13u-user-defined-3-code>STA</z13u-user-defined-3-code>
+<z13u-user-defined-3>HATHI-IC KEEPUF</z13u-user-defined-3>
+<z13u-user-defined-4-code>035</z13u-user-defined-4-code>
+<z13u-user-defined-4>(OCoLC)00000005</z13u-user-defined-4>
+<z13u-user-defined-5-code></z13u-user-defined-5-code>
+<z13u-user-defined-5></z13u-user-defined-5>
+<z13u-user-defined-6-code></z13u-user-defined-6-code>
+<z13u-user-defined-6></z13u-user-defined-6>
+<z13u-user-defined-7-code></z13u-user-defined-7-code>
+<z13u-user-defined-7></z13u-user-defined-7>
+<z13u-user-defined-8-code></z13u-user-defined-8-code>
+<z13u-user-defined-8></z13u-user-defined-8>
+<z13u-user-defined-9-code></z13u-user-defined-9-code>
+<z13u-user-defined-9></z13u-user-defined-9>
+<z13u-user-defined-10-code></z13u-user-defined-10-code>
+<z13u-user-defined-10></z13u-user-defined-10>
+<z13u-user-defined-11-code></z13u-user-defined-11-code>
+<z13u-user-defined-11></z13u-user-defined-11>
+<z13u-user-defined-12-code></z13u-user-defined-12-code>
+<z13u-user-defined-12></z13u-user-defined-12>
+<z13u-user-defined-13-code></z13u-user-defined-13-code>
+<z13u-user-defined-13></z13u-user-defined-13>
+<z13u-user-defined-14-code></z13u-user-defined-14-code>
+<z13u-user-defined-14></z13u-user-defined-14>
+<z13u-user-defined-15-code></z13u-user-defined-15-code>
+<z13u-user-defined-15></z13u-user-defined-15>
+<z13-doc-number>20000005</z13-doc-number>
+<z13-year>1973</z13-year>
+<z13-open-date>06/22/2012</z13-open-date>
+<z13-update-date>07/08/2013</z13-update-date>
+<z13-call-no-key></z13-call-no-key>
+<z13-call-no-code></z13-call-no-code>
+<z13-call-no>QM21 .M57 1973</z13-call-no>
+<z13-author-code>1001</z13-author-code>
+<z13-author>Montaña de Montserrate, Bernardino.</z13-author>
+<z13-title-code></z13-title-code>
+<z13-title>Libro de la anatomía del hombre.</z13-title>
+<z13-imprint-code>260</z13-imprint-code>
+<z13-imprint>&lt;Madrid&gt; : Instituto Bibliográfico Hispánico, &lt;1973&gt;.</z13-imprint>
+<z13-isbn-issn-code>020</z13-isbn-issn-code>
+<z13-isbn-issn>8460059367</z13-isbn-issn>
+<is-loan>N</is-loan>
+</section-02>
+
+
+<section-02>
+<z30-doc-number>2</z30-doc-number>
+<z30-item-sequence>    1.0</z30-item-sequence>
+<z30-barcode>31254008956324</z30-barcode>
+<z30-sub-library>FSU DIRAC SCIENCE LIBRARY</z30-sub-library>
+<z30-material>Book Sort</z30-material>
+<z30-item-status>Withdrawn</z30-item-status>
+<z30-open-date>06/20/1990</z30-open-date>
+<z30-update-date>07/28/2015</z30-update-date>
+<z30-cataloger>JELEE</z30-cataloger>
+<z30-date-last-return>01/29/2008</z30-date-last-return>
+<z30-hour-last-return>09:33 PM</z30-hour-last-return>
+<z30-ip-last-return>128.186.24.23</z30-ip-last-return>
+<z30-no-loans>001</z30-no-loans>
+<z30-alpha>L</z30-alpha>
+<z30-collection></z30-collection>
+<z30-call-no-type>0</z30-call-no-type>
+<z30-call-no>QE117 .M6</z30-call-no>
+<z30-call-no-key>0 qe&quot;117 m6</z30-call-no-key>
+<z30-call-no-2-type></z30-call-no-2-type>
+<z30-call-no-2></z30-call-no-2>
+<z30-call-no-2-key></z30-call-no-2-key>
+<z30-description></z30-description>
+<z30-note-opac></z30-note-opac>
+<z30-note-circulation></z30-note-circulation>
+<z30-note-internal></z30-note-internal>
+<z30-order-number></z30-order-number>
+<z30-inventory-number></z30-inventory-number>
+<z30-inventory-number-date></z30-inventory-number-date>
+<z30-last-shelf-report-date>00000000</z30-last-shelf-report-date>
+<z30-price></z30-price>
+<z30-shelf-report-number></z30-shelf-report-number>
+<z30-on-shelf-date>00000000</z30-on-shelf-date>
+<z30-on-shelf-seq>000000</z30-on-shelf-seq>
+<z30-doc-number-2>000000002</z30-doc-number-2>
+<z30-schedule-sequence-2>00000</z30-schedule-sequence-2>
+<z30-copy-sequence-2>00000</z30-copy-sequence-2>
+<z30-vendor-code></z30-vendor-code>
+<z30-invoice-number></z30-invoice-number>
+<z30-line-number>00000</z30-line-number>
+<z30-pages></z30-pages>
+<z30-issue-date></z30-issue-date>
+<z30-expected-arrival-date></z30-expected-arrival-date>
+<z30-arrival-date></z30-arrival-date>
+<z30-item-statistic></z30-item-statistic>
+<z30-item-process-status>Withdrawn</z30-item-process-status>
+<z30-copy-id></z30-copy-id>
+<z30-hol-doc-number>075000002</z30-hol-doc-number>
+<z30-temp-location>No</z30-temp-location>
+<z30-enumeration-a></z30-enumeration-a>
+<z30-enumeration-b></z30-enumeration-b>
+<z30-enumeration-c></z30-enumeration-c>
+<z30-enumeration-d></z30-enumeration-d>
+<z30-enumeration-e></z30-enumeration-e>
+<z30-enumeration-f></z30-enumeration-f>
+<z30-enumeration-g></z30-enumeration-g>
+<z30-enumeration-h>AAA00020010001</z30-enumeration-h>
+<z30-chronological-i></z30-chronological-i>
+<z30-chronological-j></z30-chronological-j>
+<z30-chronological-k></z30-chronological-k>
+<z30-chronological-l></z30-chronological-l>
+<z30-chronological-m></z30-chronological-m>
+<z30-supp-index-o></z30-supp-index-o>
+<z30-85x-type></z30-85x-type>
+<z30-depository-id></z30-depository-id>
+<z30-linking-number>000000000</z30-linking-number>
+<z30-gap-indicator></z30-gap-indicator>
+<z30-maintenance-count>000</z30-maintenance-count>
+<z30-process-status-date>07/28/2015</z30-process-status-date>
+<z13u-doc-number>020000006</z13u-doc-number>
+<z13u-user-defined-1-code>FMT</z13u-user-defined-1-code>
+<z13u-user-defined-1>BK</z13u-user-defined-1>
+<z13u-user-defined-2-code>008</z13u-user-defined-2-code>
+<z13u-user-defined-2>^eng^^</z13u-user-defined-2>
+<z13u-user-defined-3-code>STA</z13u-user-defined-3-code>
+<z13u-user-defined-3>HATHI-IC KEEPUF</z13u-user-defined-3>
+<z13u-user-defined-4-code>035</z13u-user-defined-4-code>
+<z13u-user-defined-4>(OCoLC)00000002</z13u-user-defined-4>
+<z13u-user-defined-5-code></z13u-user-defined-5-code>
+<z13u-user-defined-5></z13u-user-defined-5>
+<z13u-user-defined-6-code></z13u-user-defined-6-code>
+<z13u-user-defined-6></z13u-user-defined-6>
+<z13u-user-defined-7-code></z13u-user-defined-7-code>
+<z13u-user-defined-7></z13u-user-defined-7>
+<z13u-user-defined-8-code></z13u-user-defined-8-code>
+<z13u-user-defined-8></z13u-user-defined-8>
+<z13u-user-defined-9-code></z13u-user-defined-9-code>
+<z13u-user-defined-9></z13u-user-defined-9>
+<z13u-user-defined-10-code></z13u-user-defined-10-code>
+<z13u-user-defined-10></z13u-user-defined-10>
+<z13u-user-defined-11-code></z13u-user-defined-11-code>
+<z13u-user-defined-11></z13u-user-defined-11>
+<z13u-user-defined-12-code></z13u-user-defined-12-code>
+<z13u-user-defined-12></z13u-user-defined-12>
+<z13u-user-defined-13-code></z13u-user-defined-13-code>
+<z13u-user-defined-13></z13u-user-defined-13>
+<z13u-user-defined-14-code></z13u-user-defined-14-code>
+<z13u-user-defined-14></z13u-user-defined-14>
+<z13u-user-defined-15-code></z13u-user-defined-15-code>
+<z13u-user-defined-15></z13u-user-defined-15>
+<z13-doc-number>20000006</z13-doc-number>
+<z13-year>1963</z13-year>
+<z13-open-date>06/23/2012</z13-open-date>
+<z13-update-date>11/25/2015</z13-update-date>
+<z13-call-no-key></z13-call-no-key>
+<z13-call-no-code></z13-call-no-code>
+<z13-call-no>QE117 .M6</z13-call-no>
+<z13-author-code>1001</z13-author-code>
+<z13-author>Morgan, James P. (James Plummer), 1919-1995.</z13-author>
+<z13-title-code></z13-title-code>
+<z13-title>Mudlumps at the mouth of South Pass, Mississippi River; sedimentology, paleontology, structure, orig</z13-title>
+<z13-imprint-code>260</z13-imprint-code>
+<z13-imprint>Baton Rouge, Louisiana State University Press, 1963.</z13-imprint>
+<z13-isbn-issn-code></z13-isbn-issn-code>
+<z13-isbn-issn></z13-isbn-issn>
+<is-loan>N</is-loan>
+</section-02>
+
+
+<section-02>
+<z30-doc-number>4</z30-doc-number>
+<z30-item-sequence>    1.0</z30-item-sequence>
+<z30-barcode>31254005659095</z30-barcode>
+<z30-sub-library>FSU STROZIER LIBRARY</z30-sub-library>
+<z30-material>Book Sort</z30-material>
+<z30-item-status>Regular Loan</z30-item-status>
+<z30-open-date>01/19/1989</z30-open-date>
+<z30-update-date>07/11/2013</z30-update-date>
+<z30-cataloger></z30-cataloger>
+<z30-date-last-return>04/25/2016</z30-date-last-return>
+<z30-hour-last-return>12:16 PM</z30-hour-last-return>
+<z30-ip-last-return>128.186.58.28</z30-ip-last-return>
+<z30-no-loans>007</z30-no-loans>
+<z30-alpha>L</z30-alpha>
+<z30-collection></z30-collection>
+<z30-call-no-type>0</z30-call-no-type>
+<z30-call-no>HM251 .M5313 1969</z30-call-no>
+<z30-call-no-key>0 hm&quot;251 m5313 1969</z30-call-no-key>
+<z30-call-no-2-type></z30-call-no-2-type>
+<z30-call-no-2></z30-call-no-2>
+<z30-call-no-2-key></z30-call-no-2-key>
+<z30-description></z30-description>
+<z30-note-opac></z30-note-opac>
+<z30-note-circulation></z30-note-circulation>
+<z30-note-internal></z30-note-internal>
+<z30-order-number></z30-order-number>
+<z30-inventory-number></z30-inventory-number>
+<z30-inventory-number-date></z30-inventory-number-date>
+<z30-last-shelf-report-date>00000000</z30-last-shelf-report-date>
+<z30-price>20.00</z30-price>
+<z30-shelf-report-number></z30-shelf-report-number>
+<z30-on-shelf-date>00000000</z30-on-shelf-date>
+<z30-on-shelf-seq>000000</z30-on-shelf-seq>
+<z30-doc-number-2>000000004</z30-doc-number-2>
+<z30-schedule-sequence-2>00000</z30-schedule-sequence-2>
+<z30-copy-sequence-2>00000</z30-copy-sequence-2>
+<z30-vendor-code></z30-vendor-code>
+<z30-invoice-number></z30-invoice-number>
+<z30-line-number>00000</z30-line-number>
+<z30-pages></z30-pages>
+<z30-issue-date></z30-issue-date>
+<z30-expected-arrival-date></z30-expected-arrival-date>
+<z30-arrival-date></z30-arrival-date>
+<z30-item-statistic></z30-item-statistic>
+<z30-item-process-status>Not in process</z30-item-process-status>
+<z30-copy-id></z30-copy-id>
+<z30-hol-doc-number>075000005</z30-hol-doc-number>
+<z30-temp-location>No</z30-temp-location>
+<z30-enumeration-a></z30-enumeration-a>
+<z30-enumeration-b></z30-enumeration-b>
+<z30-enumeration-c></z30-enumeration-c>
+<z30-enumeration-d></z30-enumeration-d>
+<z30-enumeration-e></z30-enumeration-e>
+<z30-enumeration-f></z30-enumeration-f>
+<z30-enumeration-g></z30-enumeration-g>
+<z30-enumeration-h>AAA00040010001</z30-enumeration-h>
+<z30-chronological-i></z30-chronological-i>
+<z30-chronological-j></z30-chronological-j>
+<z30-chronological-k></z30-chronological-k>
+<z30-chronological-l></z30-chronological-l>
+<z30-chronological-m></z30-chronological-m>
+<z30-supp-index-o></z30-supp-index-o>
+<z30-85x-type></z30-85x-type>
+<z30-depository-id></z30-depository-id>
+<z30-linking-number>000000000</z30-linking-number>
+<z30-gap-indicator></z30-gap-indicator>
+<z30-maintenance-count>001</z30-maintenance-count>
+<z30-process-status-date>07/11/2013</z30-process-status-date>
+<z13u-doc-number>020000004</z13u-doc-number>
+<z13u-user-defined-1-code>FMT</z13u-user-defined-1-code>
+<z13u-user-defined-1>BK</z13u-user-defined-1>
+<z13u-user-defined-2-code>008</z13u-user-defined-2-code>
+<z13u-user-defined-2>^eng^^</z13u-user-defined-2>
+<z13u-user-defined-3-code>STA</z13u-user-defined-3-code>
+<z13u-user-defined-3>HATHI-IC KEEPUF</z13u-user-defined-3>
+<z13u-user-defined-4-code>035</z13u-user-defined-4-code>
+<z13u-user-defined-4>(OCoLC)00000017</z13u-user-defined-4>
+<z13u-user-defined-5-code></z13u-user-defined-5-code>
+<z13u-user-defined-5></z13u-user-defined-5>
+<z13u-user-defined-6-code></z13u-user-defined-6-code>
+<z13u-user-defined-6></z13u-user-defined-6>
+<z13u-user-defined-7-code></z13u-user-defined-7-code>
+<z13u-user-defined-7></z13u-user-defined-7>
+<z13u-user-defined-8-code></z13u-user-defined-8-code>
+<z13u-user-defined-8></z13u-user-defined-8>
+<z13u-user-defined-9-code></z13u-user-defined-9-code>
+<z13u-user-defined-9></z13u-user-defined-9>
+<z13u-user-defined-10-code></z13u-user-defined-10-code>
+<z13u-user-defined-10></z13u-user-defined-10>
+<z13u-user-defined-11-code></z13u-user-defined-11-code>
+<z13u-user-defined-11></z13u-user-defined-11>
+<z13u-user-defined-12-code></z13u-user-defined-12-code>
+<z13u-user-defined-12></z13u-user-defined-12>
+<z13u-user-defined-13-code></z13u-user-defined-13-code>
+<z13u-user-defined-13></z13u-user-defined-13>
+<z13u-user-defined-14-code></z13u-user-defined-14-code>
+<z13u-user-defined-14></z13u-user-defined-14>
+<z13u-user-defined-15-code></z13u-user-defined-15-code>
+<z13u-user-defined-15></z13u-user-defined-15>
+<z13-doc-number>20000004</z13-doc-number>
+<z13-year>1969</z13-year>
+<z13-open-date>06/22/2012</z13-open-date>
+<z13-update-date>11/25/2015</z13-update-date>
+<z13-call-no-key></z13-call-no-key>
+<z13-call-no-code></z13-call-no-code>
+<z13-call-no>HM251 .M5313 1969</z13-call-no>
+<z13-author-code>1001</z13-author-code>
+<z13-author>Mitscherlich, Alexander, 1908-1982.</z13-author>
+<z13-title-code></z13-title-code>
+<z13-title>Society without the father : a contribution to social psychology / Alexander Mitscherlich ; translat</z13-title>
+<z13-imprint-code>260</z13-imprint-code>
+<z13-imprint>New York, Harcourt Brace &amp; World [1969]</z13-imprint>
+<z13-isbn-issn-code></z13-isbn-issn-code>
+<z13-isbn-issn></z13-isbn-issn>
+<is-loan>N</is-loan>
+</section-02>
+
+
+<section-02>
+<z30-doc-number>5</z30-doc-number>
+<z30-item-sequence>    1.0</z30-item-sequence>
+<z30-barcode>31254000121323</z30-barcode>
+<z30-sub-library>FSU STROZIER LIBRARY</z30-sub-library>
+<z30-material>Book Sort</z30-material>
+<z30-item-status>Regular Loan</z30-item-status>
+<z30-open-date>11/18/1991</z30-open-date>
+<z30-update-date>07/11/2013</z30-update-date>
+<z30-cataloger></z30-cataloger>
+<z30-date-last-return>09/10/2003</z30-date-last-return>
+<z30-hour-last-return>09:48 AM</z30-hour-last-return>
+<z30-ip-last-return>FA</z30-ip-last-return>
+<z30-no-loans>005</z30-no-loans>
+<z30-alpha>L</z30-alpha>
+<z30-collection></z30-collection>
+<z30-call-no-type>0</z30-call-no-type>
+<z30-call-no>LB2825 .L8</z30-call-no>
+<z30-call-no-key>0 lb#2825 l8</z30-call-no-key>
+<z30-call-no-2-type></z30-call-no-2-type>
+<z30-call-no-2></z30-call-no-2>
+<z30-call-no-2-key></z30-call-no-2-key>
+<z30-description></z30-description>
+<z30-note-opac></z30-note-opac>
+<z30-note-circulation></z30-note-circulation>
+<z30-note-internal>soc</z30-note-internal>
+<z30-order-number></z30-order-number>
+<z30-inventory-number></z30-inventory-number>
+<z30-inventory-number-date></z30-inventory-number-date>
+<z30-last-shelf-report-date>00000000</z30-last-shelf-report-date>
+<z30-price></z30-price>
+<z30-shelf-report-number></z30-shelf-report-number>
+<z30-on-shelf-date>00000000</z30-on-shelf-date>
+<z30-on-shelf-seq>000000</z30-on-shelf-seq>
+<z30-doc-number-2>000000005</z30-doc-number-2>
+<z30-schedule-sequence-2>00000</z30-schedule-sequence-2>
+<z30-copy-sequence-2>00000</z30-copy-sequence-2>
+<z30-vendor-code></z30-vendor-code>
+<z30-invoice-number></z30-invoice-number>
+<z30-line-number>00000</z30-line-number>
+<z30-pages></z30-pages>
+<z30-issue-date></z30-issue-date>
+<z30-expected-arrival-date></z30-expected-arrival-date>
+<z30-arrival-date></z30-arrival-date>
+<z30-item-statistic></z30-item-statistic>
+<z30-item-process-status>Not in process</z30-item-process-status>
+<z30-copy-id></z30-copy-id>
+<z30-hol-doc-number>075000006</z30-hol-doc-number>
+<z30-temp-location>No</z30-temp-location>
+<z30-enumeration-a></z30-enumeration-a>
+<z30-enumeration-b></z30-enumeration-b>
+<z30-enumeration-c></z30-enumeration-c>
+<z30-enumeration-d></z30-enumeration-d>
+<z30-enumeration-e></z30-enumeration-e>
+<z30-enumeration-f></z30-enumeration-f>
+<z30-enumeration-g></z30-enumeration-g>
+<z30-enumeration-h>AAA00050010001</z30-enumeration-h>
+<z30-chronological-i></z30-chronological-i>
+<z30-chronological-j></z30-chronological-j>
+<z30-chronological-k></z30-chronological-k>
+<z30-chronological-l></z30-chronological-l>
+<z30-chronological-m></z30-chronological-m>
+<z30-supp-index-o></z30-supp-index-o>
+<z30-85x-type></z30-85x-type>
+<z30-depository-id></z30-depository-id>
+<z30-linking-number>000000000</z30-linking-number>
+<z30-gap-indicator></z30-gap-indicator>
+<z30-maintenance-count>000</z30-maintenance-count>
+<z30-process-status-date>07/11/2013</z30-process-status-date>
+<z13u-doc-number>020000173</z13u-doc-number>
+<z13u-user-defined-1-code>FMT</z13u-user-defined-1-code>
+<z13u-user-defined-1>BK</z13u-user-defined-1>
+<z13u-user-defined-2-code>008</z13u-user-defined-2-code>
+<z13u-user-defined-2>^eng^^</z13u-user-defined-2>
+<z13u-user-defined-3-code>STA</z13u-user-defined-3-code>
+<z13u-user-defined-3>HATHI-IC KEEPUF</z13u-user-defined-3>
+<z13u-user-defined-4-code>035</z13u-user-defined-4-code>
+<z13u-user-defined-4>(OCoLC)00000019</z13u-user-defined-4>
+<z13u-user-defined-5-code></z13u-user-defined-5-code>
+<z13u-user-defined-5></z13u-user-defined-5>
+<z13u-user-defined-6-code></z13u-user-defined-6-code>
+<z13u-user-defined-6></z13u-user-defined-6>
+<z13u-user-defined-7-code></z13u-user-defined-7-code>
+<z13u-user-defined-7></z13u-user-defined-7>
+<z13u-user-defined-8-code></z13u-user-defined-8-code>
+<z13u-user-defined-8></z13u-user-defined-8>
+<z13u-user-defined-9-code></z13u-user-defined-9-code>
+<z13u-user-defined-9></z13u-user-defined-9>
+<z13u-user-defined-10-code></z13u-user-defined-10-code>
+<z13u-user-defined-10></z13u-user-defined-10>
+<z13u-user-defined-11-code></z13u-user-defined-11-code>
+<z13u-user-defined-11></z13u-user-defined-11>
+<z13u-user-defined-12-code></z13u-user-defined-12-code>
+<z13u-user-defined-12></z13u-user-defined-12>
+<z13u-user-defined-13-code></z13u-user-defined-13-code>
+<z13u-user-defined-13></z13u-user-defined-13>
+<z13u-user-defined-14-code></z13u-user-defined-14-code>
+<z13u-user-defined-14></z13u-user-defined-14>
+<z13u-user-defined-15-code></z13u-user-defined-15-code>
+<z13u-user-defined-15></z13u-user-defined-15>
+<z13-doc-number>20000173</z13-doc-number>
+<z13-year>1968</z13-year>
+<z13-open-date>06/23/2012</z13-open-date>
+<z13-update-date>06/23/2012</z13-update-date>
+<z13-call-no-key></z13-call-no-key>
+<z13-call-no-code></z13-call-no-code>
+<z13-call-no>LB2825 .L8</z13-call-no>
+<z13-author-code>1001</z13-author-code>
+<z13-author>Lu, Hsien, 1929-</z13-author>
+<z13-title-code></z13-title-code>
+<z13-title>Federal role in education; a comprehensive study of Federal relations to education in the United Sta</z13-title>
+<z13-imprint-code>260</z13-imprint-code>
+<z13-imprint>New York, American Press [1968, c1965]</z13-imprint>
+<z13-isbn-issn-code></z13-isbn-issn-code>
+<z13-isbn-issn></z13-isbn-issn>
+<is-loan>N</is-loan>
+</section-02>
+
+
+<section-02>
+<z30-doc-number>6</z30-doc-number>
+<z30-item-sequence>    1.0</z30-item-sequence>
+<z30-barcode>31254002263404</z30-barcode>
+<z30-sub-library>FSU STROZIER LIBRARY</z30-sub-library>
+<z30-material>Book Sort</z30-material>
+<z30-item-status>Regular Loan</z30-item-status>
+<z30-open-date>01/19/1989</z30-open-date>
+<z30-update-date>07/11/2013</z30-update-date>
+<z30-cataloger>FCAFA1U</z30-cataloger>
+<z30-date-last-return>04/04/2017</z30-date-last-return>
+<z30-hour-last-return>02:29 PM</z30-hour-last-return>
+<z30-ip-last-return>128.186.58.28</z30-ip-last-return>
+<z30-no-loans>002</z30-no-loans>
+<z30-alpha>L</z30-alpha>
+<z30-collection>Subbasement Oversize - Ask at Circulation</z30-collection>
+<z30-call-no-type>0</z30-call-no-type>
+<z30-call-no>F800 .A6 1966</z30-call-no>
+<z30-call-no-key>0 f&quot;800 a6 1966</z30-call-no-key>
+<z30-call-no-2-type></z30-call-no-2-type>
+<z30-call-no-2></z30-call-no-2>
+<z30-call-no-2-key></z30-call-no-2-key>
+<z30-description>*</z30-description>
+<z30-note-opac></z30-note-opac>
+<z30-note-circulation></z30-note-circulation>
+<z30-note-internal></z30-note-internal>
+<z30-order-number></z30-order-number>
+<z30-inventory-number></z30-inventory-number>
+<z30-inventory-number-date></z30-inventory-number-date>
+<z30-last-shelf-report-date>00000000</z30-last-shelf-report-date>
+<z30-price>20.00</z30-price>
+<z30-shelf-report-number></z30-shelf-report-number>
+<z30-on-shelf-date>00000000</z30-on-shelf-date>
+<z30-on-shelf-seq>000000</z30-on-shelf-seq>
+<z30-doc-number-2>000000006</z30-doc-number-2>
+<z30-schedule-sequence-2>00000</z30-schedule-sequence-2>
+<z30-copy-sequence-2>00000</z30-copy-sequence-2>
+<z30-vendor-code></z30-vendor-code>
+<z30-invoice-number></z30-invoice-number>
+<z30-line-number>00000</z30-line-number>
+<z30-pages></z30-pages>
+<z30-issue-date></z30-issue-date>
+<z30-expected-arrival-date></z30-expected-arrival-date>
+<z30-arrival-date></z30-arrival-date>
+<z30-item-statistic></z30-item-statistic>
+<z30-item-process-status>Not in process</z30-item-process-status>
+<z30-copy-id></z30-copy-id>
+<z30-hol-doc-number>075000007</z30-hol-doc-number>
+<z30-temp-location>No</z30-temp-location>
+<z30-enumeration-a>*</z30-enumeration-a>
+<z30-enumeration-b></z30-enumeration-b>
+<z30-enumeration-c></z30-enumeration-c>
+<z30-enumeration-d></z30-enumeration-d>
+<z30-enumeration-e></z30-enumeration-e>
+<z30-enumeration-f></z30-enumeration-f>
+<z30-enumeration-g></z30-enumeration-g>
+<z30-enumeration-h>AAA00060010001</z30-enumeration-h>
+<z30-chronological-i></z30-chronological-i>
+<z30-chronological-j></z30-chronological-j>
+<z30-chronological-k></z30-chronological-k>
+<z30-chronological-l></z30-chronological-l>
+<z30-chronological-m></z30-chronological-m>
+<z30-supp-index-o></z30-supp-index-o>
+<z30-85x-type></z30-85x-type>
+<z30-depository-id></z30-depository-id>
+<z30-linking-number>000000000</z30-linking-number>
+<z30-gap-indicator></z30-gap-indicator>
+<z30-maintenance-count>001</z30-maintenance-count>
+<z30-process-status-date>07/11/2013</z30-process-status-date>
+<z13u-doc-number>020000186</z13u-doc-number>
+<z13u-user-defined-1-code>FMT</z13u-user-defined-1-code>
+<z13u-user-defined-1>BK</z13u-user-defined-1>
+<z13u-user-defined-2-code>008</z13u-user-defined-2-code>
+<z13u-user-defined-2>^eng^^</z13u-user-defined-2>
+<z13u-user-defined-3-code></z13u-user-defined-3-code>
+<z13u-user-defined-3></z13u-user-defined-3>
+<z13u-user-defined-4-code>035</z13u-user-defined-4-code>
+<z13u-user-defined-4>(OCoLC)00000022</z13u-user-defined-4>
+<z13u-user-defined-5-code></z13u-user-defined-5-code>
+<z13u-user-defined-5></z13u-user-defined-5>
+<z13u-user-defined-6-code></z13u-user-defined-6-code>
+<z13u-user-defined-6></z13u-user-defined-6>
+<z13u-user-defined-7-code></z13u-user-defined-7-code>
+<z13u-user-defined-7></z13u-user-defined-7>
+<z13u-user-defined-8-code></z13u-user-defined-8-code>
+<z13u-user-defined-8></z13u-user-defined-8>
+<z13u-user-defined-9-code></z13u-user-defined-9-code>
+<z13u-user-defined-9></z13u-user-defined-9>
+<z13u-user-defined-10-code></z13u-user-defined-10-code>
+<z13u-user-defined-10></z13u-user-defined-10>
+<z13u-user-defined-11-code></z13u-user-defined-11-code>
+<z13u-user-defined-11></z13u-user-defined-11>
+<z13u-user-defined-12-code></z13u-user-defined-12-code>
+<z13u-user-defined-12></z13u-user-defined-12>
+<z13u-user-defined-13-code></z13u-user-defined-13-code>
+<z13u-user-defined-13></z13u-user-defined-13>
+<z13u-user-defined-14-code></z13u-user-defined-14-code>
+<z13u-user-defined-14></z13u-user-defined-14>
+<z13u-user-defined-15-code></z13u-user-defined-15-code>
+<z13u-user-defined-15></z13u-user-defined-15>
+<z13-doc-number>20000186</z13-doc-number>
+<z13-year>1966</z13-year>
+<z13-open-date>06/22/2012</z13-open-date>
+<z13-update-date>11/10/2016</z13-update-date>
+<z13-call-no-key></z13-call-no-key>
+<z13-call-no-code></z13-call-no-code>
+<z13-call-no>F800 .A6 1966</z13-call-no>
+<z13-author-code>1001</z13-author-code>
+<z13-author>Abert, James William, 1820-1897.</z13-author>
+<z13-title-code></z13-title-code>
+<z13-title>Western America in 1846-1847; the original travel diary of Lieutenant J. W. Abert, who mapped New Me</z13-title>
+<z13-imprint-code>260</z13-imprint-code>
+<z13-imprint>[San Francisco] J. Howell, 1966.</z13-imprint>
+<z13-isbn-issn-code></z13-isbn-issn-code>
+<z13-isbn-issn></z13-isbn-issn>
+<is-loan>N</is-loan>
+</section-02>
+
+
+<section-02>
+<z30-doc-number>7</z30-doc-number>
+<z30-item-sequence>    1.0</z30-item-sequence>
+<z30-barcode>31254006428540</z30-barcode>
+<z30-sub-library>FSU Remote Storage 1</z30-sub-library>
+<z30-material>Book Sort</z30-material>
+<z30-item-status>Regular Loan</z30-item-status>
+<z30-open-date>04/25/2012</z30-open-date>
+<z30-update-date>07/11/2013</z30-update-date>
+<z30-cataloger>JMCGRIFF</z30-cataloger>
+<z30-date-last-return></z30-date-last-return>
+<z30-hour-last-return></z30-hour-last-return>
+<z30-ip-last-return></z30-ip-last-return>
+<z30-no-loans>000</z30-no-loans>
+<z30-alpha>L</z30-alpha>
+<z30-collection>Ask at Circulation</z30-collection>
+<z30-call-no-type>0</z30-call-no-type>
+<z30-call-no>QA76 .W26</z30-call-no>
+<z30-call-no-key>0 qa!76 w26</z30-call-no-key>
+<z30-call-no-2-type></z30-call-no-2-type>
+<z30-call-no-2></z30-call-no-2>
+<z30-call-no-2-key></z30-call-no-2-key>
+<z30-description></z30-description>
+<z30-note-opac></z30-note-opac>
+<z30-note-circulation></z30-note-circulation>
+<z30-note-internal></z30-note-internal>
+<z30-order-number></z30-order-number>
+<z30-inventory-number></z30-inventory-number>
+<z30-inventory-number-date></z30-inventory-number-date>
+<z30-last-shelf-report-date>00000000</z30-last-shelf-report-date>
+<z30-price></z30-price>
+<z30-shelf-report-number></z30-shelf-report-number>
+<z30-on-shelf-date>00000000</z30-on-shelf-date>
+<z30-on-shelf-seq>000000</z30-on-shelf-seq>
+<z30-doc-number-2>000000000</z30-doc-number-2>
+<z30-schedule-sequence-2>00000</z30-schedule-sequence-2>
+<z30-copy-sequence-2>00000</z30-copy-sequence-2>
+<z30-vendor-code></z30-vendor-code>
+<z30-invoice-number></z30-invoice-number>
+<z30-line-number>00000</z30-line-number>
+<z30-pages></z30-pages>
+<z30-issue-date></z30-issue-date>
+<z30-expected-arrival-date></z30-expected-arrival-date>
+<z30-arrival-date></z30-arrival-date>
+<z30-item-statistic></z30-item-statistic>
+<z30-item-process-status>Not in process</z30-item-process-status>
+<z30-copy-id></z30-copy-id>
+<z30-hol-doc-number>075000008</z30-hol-doc-number>
+<z30-temp-location>No</z30-temp-location>
+<z30-enumeration-a></z30-enumeration-a>
+<z30-enumeration-b></z30-enumeration-b>
+<z30-enumeration-c></z30-enumeration-c>
+<z30-enumeration-d></z30-enumeration-d>
+<z30-enumeration-e></z30-enumeration-e>
+<z30-enumeration-f></z30-enumeration-f>
+<z30-enumeration-g></z30-enumeration-g>
+<z30-enumeration-h></z30-enumeration-h>
+<z30-chronological-i></z30-chronological-i>
+<z30-chronological-j></z30-chronological-j>
+<z30-chronological-k></z30-chronological-k>
+<z30-chronological-l></z30-chronological-l>
+<z30-chronological-m></z30-chronological-m>
+<z30-supp-index-o></z30-supp-index-o>
+<z30-85x-type></z30-85x-type>
+<z30-depository-id></z30-depository-id>
+<z30-linking-number>000000000</z30-linking-number>
+<z30-gap-indicator></z30-gap-indicator>
+<z30-maintenance-count>000</z30-maintenance-count>
+<z30-process-status-date>07/11/2013</z30-process-status-date>
+<z13u-doc-number>020000130</z13u-doc-number>
+<z13u-user-defined-1-code>FMT</z13u-user-defined-1-code>
+<z13u-user-defined-1>BK</z13u-user-defined-1>
+<z13u-user-defined-2-code>008</z13u-user-defined-2-code>
+<z13u-user-defined-2>^eng^^</z13u-user-defined-2>
+<z13u-user-defined-3-code>STA</z13u-user-defined-3-code>
+<z13u-user-defined-3>HATHI-IC KEEPUF</z13u-user-defined-3>
+<z13u-user-defined-4-code>035</z13u-user-defined-4-code>
+<z13u-user-defined-4>(OCoLC)00000059</z13u-user-defined-4>
+<z13u-user-defined-5-code></z13u-user-defined-5-code>
+<z13u-user-defined-5></z13u-user-defined-5>
+<z13u-user-defined-6-code></z13u-user-defined-6-code>
+<z13u-user-defined-6></z13u-user-defined-6>
+<z13u-user-defined-7-code></z13u-user-defined-7-code>
+<z13u-user-defined-7></z13u-user-defined-7>
+<z13u-user-defined-8-code></z13u-user-defined-8-code>
+<z13u-user-defined-8></z13u-user-defined-8>
+<z13u-user-defined-9-code></z13u-user-defined-9-code>
+<z13u-user-defined-9></z13u-user-defined-9>
+<z13u-user-defined-10-code></z13u-user-defined-10-code>
+<z13u-user-defined-10></z13u-user-defined-10>
+<z13u-user-defined-11-code></z13u-user-defined-11-code>
+<z13u-user-defined-11></z13u-user-defined-11>
+<z13u-user-defined-12-code></z13u-user-defined-12-code>
+<z13u-user-defined-12></z13u-user-defined-12>
+<z13u-user-defined-13-code></z13u-user-defined-13-code>
+<z13u-user-defined-13></z13u-user-defined-13>
+<z13u-user-defined-14-code></z13u-user-defined-14-code>
+<z13u-user-defined-14></z13u-user-defined-14>
+<z13u-user-defined-15-code></z13u-user-defined-15-code>
+<z13u-user-defined-15></z13u-user-defined-15>
+<z13-doc-number>20000130</z13-doc-number>
+<z13-year>1968</z13-year>
+<z13-open-date>06/22/2012</z13-open-date>
+<z13-update-date>06/22/2012</z13-update-date>
+<z13-call-no-key></z13-call-no-key>
+<z13-call-no-code></z13-call-no-code>
+<z13-call-no>QA76 .W26</z13-call-no>
+<z13-author-code>1001</z13-author-code>
+<z13-author>Wanous, S. J. (Samuel James), 1907-</z13-author>
+<z13-title-code></z13-title-code>
+<z13-title>Introduction to automated data processing [by] S. J. Wanous, E. E. Wanous [and] A. E. Hughes.</z13-title>
+<z13-imprint-code>260</z13-imprint-code>
+<z13-imprint>[Cincinnati] South-Western Pub. Co. [1968]</z13-imprint>
+<z13-isbn-issn-code></z13-isbn-issn-code>
+<z13-isbn-issn></z13-isbn-issn>
+<is-loan>N</is-loan>
+</section-02>
+
+
+<section-02>
+<z30-doc-number>8</z30-doc-number>
+<z30-item-sequence>    1.0</z30-item-sequence>
+<z30-barcode>31254010198055</z30-barcode>
+<z30-sub-library>FSU STROZIER LIBRARY</z30-sub-library>
+<z30-material>Book Sort</z30-material>
+<z30-item-status>Regular Loan</z30-item-status>
+<z30-open-date>04/07/1992</z30-open-date>
+<z30-update-date>07/11/2013</z30-update-date>
+<z30-cataloger>NDAVIS</z30-cataloger>
+<z30-date-last-return>07/23/2010</z30-date-last-return>
+<z30-hour-last-return>01:46 PM</z30-hour-last-return>
+<z30-ip-last-return>128.186.58.28</z30-ip-last-return>
+<z30-no-loans>002</z30-no-loans>
+<z30-alpha>L</z30-alpha>
+<z30-collection></z30-collection>
+<z30-call-no-type>0</z30-call-no-type>
+<z30-call-no>BM656 .H3</z30-call-no>
+<z30-call-no-key>0 bm&quot;656 h3</z30-call-no-key>
+<z30-call-no-2-type></z30-call-no-2-type>
+<z30-call-no-2></z30-call-no-2>
+<z30-call-no-2-key></z30-call-no-2-key>
+<z30-description></z30-description>
+<z30-note-opac></z30-note-opac>
+<z30-note-circulation></z30-note-circulation>
+<z30-note-internal></z30-note-internal>
+<z30-order-number></z30-order-number>
+<z30-inventory-number></z30-inventory-number>
+<z30-inventory-number-date></z30-inventory-number-date>
+<z30-last-shelf-report-date>00000000</z30-last-shelf-report-date>
+<z30-price></z30-price>
+<z30-shelf-report-number></z30-shelf-report-number>
+<z30-on-shelf-date>00000000</z30-on-shelf-date>
+<z30-on-shelf-seq>000000</z30-on-shelf-seq>
+<z30-doc-number-2>000000008</z30-doc-number-2>
+<z30-schedule-sequence-2>00000</z30-schedule-sequence-2>
+<z30-copy-sequence-2>00000</z30-copy-sequence-2>
+<z30-vendor-code></z30-vendor-code>
+<z30-invoice-number></z30-invoice-number>
+<z30-line-number>00000</z30-line-number>
+<z30-pages></z30-pages>
+<z30-issue-date></z30-issue-date>
+<z30-expected-arrival-date></z30-expected-arrival-date>
+<z30-arrival-date></z30-arrival-date>
+<z30-item-statistic></z30-item-statistic>
+<z30-item-process-status>Not in process</z30-item-process-status>
+<z30-copy-id></z30-copy-id>
+<z30-hol-doc-number>075000009</z30-hol-doc-number>
+<z30-temp-location>No</z30-temp-location>
+<z30-enumeration-a></z30-enumeration-a>
+<z30-enumeration-b></z30-enumeration-b>
+<z30-enumeration-c></z30-enumeration-c>
+<z30-enumeration-d></z30-enumeration-d>
+<z30-enumeration-e></z30-enumeration-e>
+<z30-enumeration-f></z30-enumeration-f>
+<z30-enumeration-g></z30-enumeration-g>
+<z30-enumeration-h>AAA00090010001</z30-enumeration-h>
+<z30-chronological-i></z30-chronological-i>
+<z30-chronological-j></z30-chronological-j>
+<z30-chronological-k></z30-chronological-k>
+<z30-chronological-l></z30-chronological-l>
+<z30-chronological-m></z30-chronological-m>
+<z30-supp-index-o></z30-supp-index-o>
+<z30-85x-type></z30-85x-type>
+<z30-depository-id></z30-depository-id>
+<z30-linking-number>000000000</z30-linking-number>
+<z30-gap-indicator></z30-gap-indicator>
+<z30-maintenance-count>001</z30-maintenance-count>
+<z30-process-status-date>07/11/2013</z30-process-status-date>
+<z13u-doc-number>020000009</z13u-doc-number>
+<z13u-user-defined-1-code>FMT</z13u-user-defined-1-code>
+<z13u-user-defined-1>BK</z13u-user-defined-1>
+<z13u-user-defined-2-code>008</z13u-user-defined-2-code>
+<z13u-user-defined-2>^eng^^</z13u-user-defined-2>
+<z13u-user-defined-3-code></z13u-user-defined-3-code>
+<z13u-user-defined-3></z13u-user-defined-3>
+<z13u-user-defined-4-code>035</z13u-user-defined-4-code>
+<z13u-user-defined-4>(OCoLC)00000061</z13u-user-defined-4>
+<z13u-user-defined-5-code></z13u-user-defined-5-code>
+<z13u-user-defined-5></z13u-user-defined-5>
+<z13u-user-defined-6-code></z13u-user-defined-6-code>
+<z13u-user-defined-6></z13u-user-defined-6>
+<z13u-user-defined-7-code></z13u-user-defined-7-code>
+<z13u-user-defined-7></z13u-user-defined-7>
+<z13u-user-defined-8-code></z13u-user-defined-8-code>
+<z13u-user-defined-8></z13u-user-defined-8>
+<z13u-user-defined-9-code></z13u-user-defined-9-code>
+<z13u-user-defined-9></z13u-user-defined-9>
+<z13u-user-defined-10-code></z13u-user-defined-10-code>
+<z13u-user-defined-10></z13u-user-defined-10>
+<z13u-user-defined-11-code></z13u-user-defined-11-code>
+<z13u-user-defined-11></z13u-user-defined-11>
+<z13u-user-defined-12-code></z13u-user-defined-12-code>
+<z13u-user-defined-12></z13u-user-defined-12>
+<z13u-user-defined-13-code></z13u-user-defined-13-code>
+<z13u-user-defined-13></z13u-user-defined-13>
+<z13u-user-defined-14-code></z13u-user-defined-14-code>
+<z13u-user-defined-14></z13u-user-defined-14>
+<z13u-user-defined-15-code></z13u-user-defined-15-code>
+<z13u-user-defined-15></z13u-user-defined-15>
+<z13-doc-number>20000009</z13-doc-number>
+<z13-year>1969</z13-year>
+<z13-open-date>06/23/2012</z13-open-date>
+<z13-update-date>06/23/2012</z13-update-date>
+<z13-call-no-key></z13-call-no-key>
+<z13-call-no-code></z13-call-no-code>
+<z13-call-no>BM656 .H3</z13-call-no>
+<z13-author-code>1001</z13-author-code>
+<z13-author>Harrelson, Walter J.</z13-author>
+<z13-title-code></z13-title-code>
+<z13-title>From fertility cult to worship [by] Walter Harrelson.</z13-title>
+<z13-imprint-code>260</z13-imprint-code>
+<z13-imprint>Garden City, N.Y., Doubleday, 1969.</z13-imprint>
+<z13-isbn-issn-code></z13-isbn-issn-code>
+<z13-isbn-issn></z13-isbn-issn>
+<is-loan>N</is-loan>
+</section-02>
+
+
+<section-02>
+<z30-doc-number>8</z30-doc-number>
+<z30-item-sequence>    2.0</z30-item-sequence>
+<z30-barcode>31254005904608</z30-barcode>
+<z30-sub-library>FSU STROZIER LIBRARY</z30-sub-library>
+<z30-material>Book Sort</z30-material>
+<z30-item-status>Withdrawn</z30-item-status>
+<z30-open-date>08/05/1988</z30-open-date>
+<z30-update-date>07/29/2015</z30-update-date>
+<z30-cataloger>NDAVIS</z30-cataloger>
+<z30-date-last-return>04/28/2000</z30-date-last-return>
+<z30-hour-last-return>09:52 PM</z30-hour-last-return>
+<z30-ip-last-return>FA</z30-ip-last-return>
+<z30-no-loans>003</z30-no-loans>
+<z30-alpha>L</z30-alpha>
+<z30-collection></z30-collection>
+<z30-call-no-type>0</z30-call-no-type>
+<z30-call-no>BM656 .H3</z30-call-no>
+<z30-call-no-key>0 bm&quot;656 h3</z30-call-no-key>
+<z30-call-no-2-type></z30-call-no-2-type>
+<z30-call-no-2></z30-call-no-2>
+<z30-call-no-2-key></z30-call-no-2-key>
+<z30-description>c.2</z30-description>
+<z30-note-opac></z30-note-opac>
+<z30-note-circulation></z30-note-circulation>
+<z30-note-internal></z30-note-internal>
+<z30-order-number></z30-order-number>
+<z30-inventory-number></z30-inventory-number>
+<z30-inventory-number-date></z30-inventory-number-date>
+<z30-last-shelf-report-date>00000000</z30-last-shelf-report-date>
+<z30-price></z30-price>
+<z30-shelf-report-number></z30-shelf-report-number>
+<z30-on-shelf-date>00000000</z30-on-shelf-date>
+<z30-on-shelf-seq>000000</z30-on-shelf-seq>
+<z30-doc-number-2>000000008</z30-doc-number-2>
+<z30-schedule-sequence-2>00000</z30-schedule-sequence-2>
+<z30-copy-sequence-2>00000</z30-copy-sequence-2>
+<z30-vendor-code></z30-vendor-code>
+<z30-invoice-number></z30-invoice-number>
+<z30-line-number>00000</z30-line-number>
+<z30-pages></z30-pages>
+<z30-issue-date></z30-issue-date>
+<z30-expected-arrival-date></z30-expected-arrival-date>
+<z30-arrival-date></z30-arrival-date>
+<z30-item-statistic></z30-item-statistic>
+<z30-item-process-status>Withdrawn</z30-item-process-status>
+<z30-copy-id>2</z30-copy-id>
+<z30-hol-doc-number>075000010</z30-hol-doc-number>
+<z30-temp-location>No</z30-temp-location>
+<z30-enumeration-a></z30-enumeration-a>
+<z30-enumeration-b></z30-enumeration-b>
+<z30-enumeration-c></z30-enumeration-c>
+<z30-enumeration-d></z30-enumeration-d>
+<z30-enumeration-e></z30-enumeration-e>
+<z30-enumeration-f></z30-enumeration-f>
+<z30-enumeration-g></z30-enumeration-g>
+<z30-enumeration-h>AAA00090020001</z30-enumeration-h>
+<z30-chronological-i></z30-chronological-i>
+<z30-chronological-j></z30-chronological-j>
+<z30-chronological-k></z30-chronological-k>
+<z30-chronological-l></z30-chronological-l>
+<z30-chronological-m></z30-chronological-m>
+<z30-supp-index-o></z30-supp-index-o>
+<z30-85x-type></z30-85x-type>
+<z30-depository-id></z30-depository-id>
+<z30-linking-number>000000000</z30-linking-number>
+<z30-gap-indicator></z30-gap-indicator>
+<z30-maintenance-count>000</z30-maintenance-count>
+<z30-process-status-date>07/29/2015</z30-process-status-date>
+<z13u-doc-number>020000009</z13u-doc-number>
+<z13u-user-defined-1-code>FMT</z13u-user-defined-1-code>
+<z13u-user-defined-1>BK</z13u-user-defined-1>
+<z13u-user-defined-2-code>008</z13u-user-defined-2-code>
+<z13u-user-defined-2>^eng^^</z13u-user-defined-2>
+<z13u-user-defined-3-code></z13u-user-defined-3-code>
+<z13u-user-defined-3></z13u-user-defined-3>
+<z13u-user-defined-4-code>035</z13u-user-defined-4-code>
+<z13u-user-defined-4>(OCoLC)00000061</z13u-user-defined-4>
+<z13u-user-defined-5-code></z13u-user-defined-5-code>
+<z13u-user-defined-5></z13u-user-defined-5>
+<z13u-user-defined-6-code></z13u-user-defined-6-code>
+<z13u-user-defined-6></z13u-user-defined-6>
+<z13u-user-defined-7-code></z13u-user-defined-7-code>
+<z13u-user-defined-7></z13u-user-defined-7>
+<z13u-user-defined-8-code></z13u-user-defined-8-code>
+<z13u-user-defined-8></z13u-user-defined-8>
+<z13u-user-defined-9-code></z13u-user-defined-9-code>
+<z13u-user-defined-9></z13u-user-defined-9>
+<z13u-user-defined-10-code></z13u-user-defined-10-code>
+<z13u-user-defined-10></z13u-user-defined-10>
+<z13u-user-defined-11-code></z13u-user-defined-11-code>
+<z13u-user-defined-11></z13u-user-defined-11>
+<z13u-user-defined-12-code></z13u-user-defined-12-code>
+<z13u-user-defined-12></z13u-user-defined-12>
+<z13u-user-defined-13-code></z13u-user-defined-13-code>
+<z13u-user-defined-13></z13u-user-defined-13>
+<z13u-user-defined-14-code></z13u-user-defined-14-code>
+<z13u-user-defined-14></z13u-user-defined-14>
+<z13u-user-defined-15-code></z13u-user-defined-15-code>
+<z13u-user-defined-15></z13u-user-defined-15>
+<z13-doc-number>0</z13-doc-number>
+<z13-year>0000</z13-year>
+<z13-open-date></z13-open-date>
+<z13-update-date></z13-update-date>
+<z13-call-no-key></z13-call-no-key>
+<z13-call-no-code></z13-call-no-code>
+<z13-call-no></z13-call-no>
+<z13-author-code></z13-author-code>
+<z13-author></z13-author>
+<z13-title-code></z13-title-code>
+<z13-title></z13-title>
+<z13-imprint-code></z13-imprint-code>
+<z13-imprint></z13-imprint>
+<z13-isbn-issn-code></z13-isbn-issn-code>
+<z13-isbn-issn></z13-isbn-issn>
+<is-loan>N</is-loan>
+</section-02>
+
+
+<section-02>
+<z30-doc-number>9</z30-doc-number>
+<z30-item-sequence>    1.0</z30-item-sequence>
+<z30-barcode>31254001029228</z30-barcode>
+<z30-sub-library>FSU STROZIER LIBRARY</z30-sub-library>
+<z30-material>Book Sort</z30-material>
+<z30-item-status>Regular Loan</z30-item-status>
+<z30-open-date>01/19/1989</z30-open-date>
+<z30-update-date>07/11/2013</z30-update-date>
+<z30-cataloger></z30-cataloger>
+<z30-date-last-return>04/14/2010</z30-date-last-return>
+<z30-hour-last-return>01:51 PM</z30-hour-last-return>
+<z30-ip-last-return>128.186.58.28</z30-ip-last-return>
+<z30-no-loans>004</z30-no-loans>
+<z30-alpha>L</z30-alpha>
+<z30-collection></z30-collection>
+<z30-call-no-type>0</z30-call-no-type>
+<z30-call-no>GN803 .S82</z30-call-no>
+<z30-call-no-key>0 gn&quot;803 s82</z30-call-no-key>
+<z30-call-no-2-type></z30-call-no-2-type>
+<z30-call-no-2></z30-call-no-2>
+<z30-call-no-2-key></z30-call-no-2-key>
+<z30-description></z30-description>
+<z30-note-opac></z30-note-opac>
+<z30-note-circulation></z30-note-circulation>
+<z30-note-internal></z30-note-internal>
+<z30-order-number></z30-order-number>
+<z30-inventory-number></z30-inventory-number>
+<z30-inventory-number-date></z30-inventory-number-date>
+<z30-last-shelf-report-date>00000000</z30-last-shelf-report-date>
+<z30-price>20.00</z30-price>
+<z30-shelf-report-number></z30-shelf-report-number>
+<z30-on-shelf-date>00000000</z30-on-shelf-date>
+<z30-on-shelf-seq>000000</z30-on-shelf-seq>
+<z30-doc-number-2>000000009</z30-doc-number-2>
+<z30-schedule-sequence-2>00000</z30-schedule-sequence-2>
+<z30-copy-sequence-2>00000</z30-copy-sequence-2>
+<z30-vendor-code></z30-vendor-code>
+<z30-invoice-number></z30-invoice-number>
+<z30-line-number>00000</z30-line-number>
+<z30-pages></z30-pages>
+<z30-issue-date></z30-issue-date>
+<z30-expected-arrival-date></z30-expected-arrival-date>
+<z30-arrival-date></z30-arrival-date>
+<z30-item-statistic></z30-item-statistic>
+<z30-item-process-status>Not in process</z30-item-process-status>
+<z30-copy-id></z30-copy-id>
+<z30-hol-doc-number>075000011</z30-hol-doc-number>
+<z30-temp-location>No</z30-temp-location>
+<z30-enumeration-a></z30-enumeration-a>
+<z30-enumeration-b></z30-enumeration-b>
+<z30-enumeration-c></z30-enumeration-c>
+<z30-enumeration-d></z30-enumeration-d>
+<z30-enumeration-e></z30-enumeration-e>
+<z30-enumeration-f></z30-enumeration-f>
+<z30-enumeration-g></z30-enumeration-g>
+<z30-enumeration-h>AAA00100010001</z30-enumeration-h>
+<z30-chronological-i></z30-chronological-i>
+<z30-chronological-j></z30-chronological-j>
+<z30-chronological-k></z30-chronological-k>
+<z30-chronological-l></z30-chronological-l>
+<z30-chronological-m></z30-chronological-m>
+<z30-supp-index-o></z30-supp-index-o>
+<z30-85x-type></z30-85x-type>
+<z30-depository-id></z30-depository-id>
+<z30-linking-number>000000000</z30-linking-number>
+<z30-gap-indicator></z30-gap-indicator>
+<z30-maintenance-count>000</z30-maintenance-count>
+<z30-process-status-date>07/11/2013</z30-process-status-date>
+<z13u-doc-number>020000013</z13u-doc-number>
+<z13u-user-defined-1-code>FMT</z13u-user-defined-1-code>
+<z13u-user-defined-1>BK</z13u-user-defined-1>
+<z13u-user-defined-2-code>008</z13u-user-defined-2-code>
+<z13u-user-defined-2>^eng^^</z13u-user-defined-2>
+<z13u-user-defined-3-code>STA</z13u-user-defined-3-code>
+<z13u-user-defined-3>HATHI-IC KEEPUF</z13u-user-defined-3>
+<z13u-user-defined-4-code>035</z13u-user-defined-4-code>
+<z13u-user-defined-4>(OCoLC)00000062</z13u-user-defined-4>
+<z13u-user-defined-5-code></z13u-user-defined-5-code>
+<z13u-user-defined-5></z13u-user-defined-5>
+<z13u-user-defined-6-code></z13u-user-defined-6-code>
+<z13u-user-defined-6></z13u-user-defined-6>
+<z13u-user-defined-7-code></z13u-user-defined-7-code>
+<z13u-user-defined-7></z13u-user-defined-7>
+<z13u-user-defined-8-code></z13u-user-defined-8-code>
+<z13u-user-defined-8></z13u-user-defined-8>
+<z13u-user-defined-9-code></z13u-user-defined-9-code>
+<z13u-user-defined-9></z13u-user-defined-9>
+<z13u-user-defined-10-code></z13u-user-defined-10-code>
+<z13u-user-defined-10></z13u-user-defined-10>
+<z13u-user-defined-11-code></z13u-user-defined-11-code>
+<z13u-user-defined-11></z13u-user-defined-11>
+<z13u-user-defined-12-code></z13u-user-defined-12-code>
+<z13u-user-defined-12></z13u-user-defined-12>
+<z13u-user-defined-13-code></z13u-user-defined-13-code>
+<z13u-user-defined-13></z13u-user-defined-13>
+<z13u-user-defined-14-code></z13u-user-defined-14-code>
+<z13u-user-defined-14></z13u-user-defined-14>
+<z13u-user-defined-15-code></z13u-user-defined-15-code>
+<z13u-user-defined-15></z13u-user-defined-15>
+<z13-doc-number>20000013</z13-doc-number>
+<z13-year>1969</z13-year>
+<z13-open-date>06/23/2012</z13-open-date>
+<z13-update-date>06/23/2012</z13-update-date>
+<z13-call-no-key></z13-call-no-key>
+<z13-call-no-code></z13-call-no-code>
+<z13-call-no>GN803 .S82</z13-call-no>
+<z13-author-code>1001</z13-author-code>
+<z13-author>Stern, Philip Van Doren, 1900-1984.</z13-author>
+<z13-title-code></z13-title-code>
+<z13-title>Prehistoric Europe, from stone age man to the early Greeks.</z13-title>
+<z13-imprint-code>260</z13-imprint-code>
+<z13-imprint>New York, Norton [1969]</z13-imprint>
+<z13-isbn-issn-code></z13-isbn-issn-code>
+<z13-isbn-issn></z13-isbn-issn>
+<is-loan>N</is-loan>
+</section-02>
+
+
+<section-02>
+<z30-doc-number>10</z30-doc-number>
+<z30-item-sequence>    1.0</z30-item-sequence>
+<z30-barcode>31254001288568</z30-barcode>
+<z30-sub-library>FSU STROZIER LIBRARY</z30-sub-library>
+<z30-material>Book Sort</z30-material>
+<z30-item-status>Regular Loan</z30-item-status>
+<z30-open-date>01/19/1989</z30-open-date>
+<z30-update-date>07/11/2013</z30-update-date>
+<z30-cataloger></z30-cataloger>
+<z30-date-last-return>04/14/2010</z30-date-last-return>
+<z30-hour-last-return>05:09 PM</z30-hour-last-return>
+<z30-ip-last-return>128.186.58.28</z30-ip-last-return>
+<z30-no-loans>003</z30-no-loans>
+<z30-alpha>L</z30-alpha>
+<z30-collection></z30-collection>
+<z30-call-no-type>0</z30-call-no-type>
+<z30-call-no>HG231 .D26 1969</z30-call-no>
+<z30-call-no-key>0 hg&quot;231 d26 1969</z30-call-no-key>
+<z30-call-no-2-type></z30-call-no-2-type>
+<z30-call-no-2></z30-call-no-2>
+<z30-call-no-2-key></z30-call-no-2-key>
+<z30-description></z30-description>
+<z30-note-opac></z30-note-opac>
+<z30-note-circulation></z30-note-circulation>
+<z30-note-internal></z30-note-internal>
+<z30-order-number></z30-order-number>
+<z30-inventory-number></z30-inventory-number>
+<z30-inventory-number-date></z30-inventory-number-date>
+<z30-last-shelf-report-date>00000000</z30-last-shelf-report-date>
+<z30-price>30.00</z30-price>
+<z30-shelf-report-number></z30-shelf-report-number>
+<z30-on-shelf-date>00000000</z30-on-shelf-date>
+<z30-on-shelf-seq>000000</z30-on-shelf-seq>
+<z30-doc-number-2>000000010</z30-doc-number-2>
+<z30-schedule-sequence-2>00000</z30-schedule-sequence-2>
+<z30-copy-sequence-2>00000</z30-copy-sequence-2>
+<z30-vendor-code></z30-vendor-code>
+<z30-invoice-number></z30-invoice-number>
+<z30-line-number>00000</z30-line-number>
+<z30-pages></z30-pages>
+<z30-issue-date></z30-issue-date>
+<z30-expected-arrival-date></z30-expected-arrival-date>
+<z30-arrival-date></z30-arrival-date>
+<z30-item-statistic></z30-item-statistic>
+<z30-item-process-status>Not in process</z30-item-process-status>
+<z30-copy-id></z30-copy-id>
+<z30-hol-doc-number>075000012</z30-hol-doc-number>
+<z30-temp-location>No</z30-temp-location>
+<z30-enumeration-a></z30-enumeration-a>
+<z30-enumeration-b></z30-enumeration-b>
+<z30-enumeration-c></z30-enumeration-c>
+<z30-enumeration-d></z30-enumeration-d>
+<z30-enumeration-e></z30-enumeration-e>
+<z30-enumeration-f></z30-enumeration-f>
+<z30-enumeration-g></z30-enumeration-g>
+<z30-enumeration-h>AAA00110010001</z30-enumeration-h>
+<z30-chronological-i></z30-chronological-i>
+<z30-chronological-j></z30-chronological-j>
+<z30-chronological-k></z30-chronological-k>
+<z30-chronological-l></z30-chronological-l>
+<z30-chronological-m></z30-chronological-m>
+<z30-supp-index-o></z30-supp-index-o>
+<z30-85x-type></z30-85x-type>
+<z30-depository-id></z30-depository-id>
+<z30-linking-number>000000000</z30-linking-number>
+<z30-gap-indicator></z30-gap-indicator>
+<z30-maintenance-count>001</z30-maintenance-count>
+<z30-process-status-date>07/11/2013</z30-process-status-date>
+<z13u-doc-number>020000135</z13u-doc-number>
+<z13u-user-defined-1-code>FMT</z13u-user-defined-1-code>
+<z13u-user-defined-1>BK</z13u-user-defined-1>
+<z13u-user-defined-2-code>008</z13u-user-defined-2-code>
+<z13u-user-defined-2>^eng^^</z13u-user-defined-2>
+<z13u-user-defined-3-code></z13u-user-defined-3-code>
+<z13u-user-defined-3></z13u-user-defined-3>
+<z13u-user-defined-4-code>035</z13u-user-defined-4-code>
+<z13u-user-defined-4>(OCoLC)00000066</z13u-user-defined-4>
+<z13u-user-defined-5-code></z13u-user-defined-5-code>
+<z13u-user-defined-5></z13u-user-defined-5>
+<z13u-user-defined-6-code></z13u-user-defined-6-code>
+<z13u-user-defined-6></z13u-user-defined-6>
+<z13u-user-defined-7-code></z13u-user-defined-7-code>
+<z13u-user-defined-7></z13u-user-defined-7>
+<z13u-user-defined-8-code></z13u-user-defined-8-code>
+<z13u-user-defined-8></z13u-user-defined-8>
+<z13u-user-defined-9-code></z13u-user-defined-9-code>
+<z13u-user-defined-9></z13u-user-defined-9>
+<z13u-user-defined-10-code></z13u-user-defined-10-code>
+<z13u-user-defined-10></z13u-user-defined-10>
+<z13u-user-defined-11-code></z13u-user-defined-11-code>
+<z13u-user-defined-11></z13u-user-defined-11>
+<z13u-user-defined-12-code></z13u-user-defined-12-code>
+<z13u-user-defined-12></z13u-user-defined-12>
+<z13u-user-defined-13-code></z13u-user-defined-13-code>
+<z13u-user-defined-13></z13u-user-defined-13>
+<z13u-user-defined-14-code></z13u-user-defined-14-code>
+<z13u-user-defined-14></z13u-user-defined-14>
+<z13u-user-defined-15-code></z13u-user-defined-15-code>
+<z13u-user-defined-15></z13u-user-defined-15>
+<z13-doc-number>20000135</z13-doc-number>
+<z13-year>1969</z13-year>
+<z13-open-date>06/22/2012</z13-open-date>
+<z13-update-date>06/22/2012</z13-update-date>
+<z13-call-no-key></z13-call-no-key>
+<z13-call-no-code></z13-call-no-code>
+<z13-call-no>HG231 .D26 1969</z13-call-no>
+<z13-author-code>1001</z13-author-code>
+<z13-author>Del Mar, Alexander, 1836-1926.</z13-author>
+<z13-title-code></z13-title-code>
+<z13-title>History of monetary systems; a history of actual experiments in money made by various states of the</z13-title>
+<z13-imprint-code>260</z13-imprint-code>
+<z13-imprint>New York, A. M. Kelley, 1969.</z13-imprint>
+<z13-isbn-issn-code></z13-isbn-issn-code>
+<z13-isbn-issn></z13-isbn-issn>
+<is-loan>N</is-loan>
+</section-02>
+
+</printout>
